@@ -1,0 +1,1592 @@
+<resources>
+    <string name="app_name">KACHIN STORY</string>
+    <string name="a_name">GUMRAWNG GUMTSA KARAI MASA</string>
+    <string name="b_name">Mung Masha Lawt Lam Gawgap Ya Ai Karai Masa</string>
+    <string name="c_name">(Kachin Story Theology)</string>
+    <string name="d_name">1. Dedication</string>
+    <string name="e_name">2. Ga Machyen</string>
+    <string name="f_name">3. Mau Mwi</string>
+    <string name="g_name">4. Ninggawn Htung(Nature) hte Nhtan shai ai lam gaw mara re</string>
+    <string name="h_name">5. Ninggun Machyu Tengman Repra Lam</string>
+    <string name="i_name">6. Matsaw Ningtsa Hkang Lu ai Maroi Nli Let Hpyi Jahtau Ai Ga</string>
+    <string name="j_name">7. Karai Kasang Madun Dan Ai Kasi Ningli</string>
+    <string name="k_name">8. Magrau Grang Wunli Lawm Ai Ga Shaka</string>
+    <string name="l_name">9. Mungga Nga Ai Kaw Tengman Lam Tam Ai Ni Nga ai</string>
+    <string name="m_name">10.Ga Hpungdim</string>
+    <string name="n_name">11.Shamyet Shanat Ai Laika ni</string>
+    <string name="o_name">.............</string>
+    <string name="p_name">        Moi shawng de Hpung-in Hka hku, Hkamung Naw
+        Lungdawn makau e, Tingmai Ma Ja Ing (Tingnga ma Ja Ing)
+        gaw shi a kasha ma chyangai hpe, hka
+        makau gumtsai dan e shagwi da nna, shi gaw hka de
+        hka shin baw hkrut rai nga ai.</string>
+    <string name="q_name">        Shi hka shin ngut nna ma hpe hta ba na ngu yang
+        ma gaw nnga mat sai. Hka la-ing de nbat hte nawng
+        karawt dun bang ai hkang sha mu mada nu ai. </string>
+    <string name="r_name">        Dai majaw shi gaw lapu e karawt mat wa sai ngu
+        hkrak kam nna; “Aga! hka rap yang hka de di hkrat
+        si ai gaw ninggawn htung re. Ya gaw hkarang e nga
+        ai hpe nan, dun sha mat ai gaw nau nan tara lai ai”
+        ngu hkrap let mu hpe jun dat wu ai gaw; “Matsaw
+        ningtsa mu e, ndai Hkamung Naw Lungdawn daw u
+        law… ningka nawng Baren shaw u law…yat di ladawng tu nga
+        hkainyeng hte shanai na law…” ngu
+        jahtau wu ai</string>
+    <string name="s_name">        Shaloi mu nat htim sa nna, Hkamung Naw
+        Lungdawn kata na lapu baren hpe achye shaw ai
+        majaw Hkamung Naw Lungdawn mung daw mat sai.
+        Lapu baren hpe gaw dai lungdawn ntsa e hpan di
+        gren mara da wu ai. </string>
+    <string name="t_name">        Dai hpang Tingmai ma Ja Ing gaw shi a ga sadi
+        nga ai hte maren, ladawng tu ai nga hkainyeng hte
+        mu nat hpe jawjau na matu hkyen wu timung, nga
+        hkainyeng nlu tam wu ai. Nga hkainyeng a malai nga
+        la shachyang hpe jaw ya na matu dumsa hkan tam
+        wu yang, Dumsa Lalawn (Layawng, La Yau) ngu ai
+        wa hpe saw la nna, jawjau wu ai</string>
+    <string name="u_name">        Matsaw ningtsang na mu shabrang kasha ni mung,
+        Nga Hkainyeng sa dun la na matu mungkan ga de
+        du sa ma ai. Dumsa Lalawn dumsa ai hta Sharam
+        hte Shara La (La Gang) a ga sadi nmai dung mat ai
+        mabyin hpe shagawp nna tsun numni wu ai gaw,
+        grai na pyaw nna matsan dum na zawn nga ai majaw,
+        mu shabrang ni Hkainyeng a malai nga la
+        shachyang hpe mu ga de dun wa ra ai kaw du hkra
+        rai mat manu ai.</string>
+    <string name="v_name">       Mu ga de du wa mayang, mu salang ni gaw hpa rai
+       nna Nga La shachyang dun wa ma ai hpe san mu
+       yang, mu shabrang ni gaw Dumsa Lalawn a shagawp
+       numni ga naupyaw nna matsan dum na zawn nga ai
+       majaw re lam tsun dan mu ai. Shaloi mu salang ni
+       gaw teng n teng san jep yu na matu Dumsa Lalawn
+       hpe mu ga de shaga ma ai. Dumsa Lalawn gaw mu
+       nat ni hpe “Ngai sa mayu tim nanhte a mung ga de
+       gaw kaning rai sa na I? ngu san wu ai. Shaloi mu
+       nat ni gaw “Nang she sa na dawdan yang gaw, hkrun
+       lam hkum tsang u anhte chye ga ai” ngu nta shinggan
+        de woi pru wa ai. Shinggan de du ai hte rau “Ya
+       myi di dat u” ngu ai hte maren Dumsa Lalawn myi di
+       dat wu ai. Jahkring mi na jang “Ya myi hpaw dat u”
+       ngu ai hte myi hpaw dat jang, mu ga de du taw nga
+       nu ai</string>
+    <string name="w_name">       Dumsa Lalawn hte hkrum jahta ngut ai hpang mu
+       nat ni gaw shinggan de woi pru nna, nhpung kawng
+       de woi sa ma ai. Shanhte gaw Dumsa Lalawn hpe
+      “Sinna hkran de mada yu u” ngu tsun ma ai. Dumsa
+       Lalawn mung mada yu yang, nta htinggaw lahkawng
+       masum sha nga ai, akatsi katsang re ai kahtawng
+       langai mi hpe mu wu ai.</string>
+    <string name="x_name">       Dumsa Lalawn gaw dai kahtawng gaw kaning re
+       ai kahtawng rai kun san yu wu ai. Shaloi shanhte
+       gaw, “Dai kahtawng gaw Du Magam kahtawng, Du
+       Ga re, moi gaw grai kaba ai kahtawng rai timung ya
+       gaw, dai hte sha ngam mat sai” ngu tsun dan ma ai.
+       Dumsa Lalawn mung grai kaba, htinggaw grai law
+       ai kahtawng hpa majaw dai zawn byin mat ai lam
+       hpe bai san yu wu yang, shanhte gaw “dai lam nang
+       hpang de chye na ndai” ngu sha tsun dan ma ai.</string>
+    <string name="y_name">       Dai hpang shanhte gaw “Sinpraw de mada yu u” ngu
+       bai tsun ma ai. Dumsa Lalawn mung mada yu dat
+       yang, nta htinggaw grai law nna, grai pyaw na zawn
+       san ai, ra tsawm ai kahtawng kaba langai mi hpe
+       mu mada wu ai. Shi gaw “Dai mare gaw kaning re ai
+       mare rai nna dai kahtawng a mying gaw kaning ngu
+       ai rai ta? ngu bai san wu ai. Shanhte mung, “Dai
+       gaw Gumrawng Gumtsa mare re” ngu tsun dan ma
+       ai.</string>
+    <string name="z_name">       Dumsa Lalawn hte mu salang ni shada jahta hkat
+       let gara hpan mare hpe ra sharawng ai lam Dumsa
+       Lalawn hpe san wu yang, Dumsa Lalawn gaw
+        gumrawng gumtsa mare hpe yu ra sharawng ai lam tsun
+       dan wu ai. Mu nat ni mung dai lam byin wa hkra
+       garum la lu ai lam tsun ma ai. Dai hpang mu nat ni
+       gaw Dumsa Lalawn hpe nta nhku de woi wa nna,
+       chyaru tsa mai-aw ndum sanit, shat nneng (nbaw)
+       madawng sanit jaw dat mu ai</string>
+    <string name="A_name">       Mu Nat ni htet dat ai gaw, “Nang dinghta ga de du
+       yang, ndai mai-aw ndum langai mi hpe nanhte a
+       tsa dumbung langai mi kaw ru bang jang dai tsa
+       dumbung hpring wa na ra ai. Dai hte maren ndai
+       shat nneng madawng langai mi hpe n-gawt langai mi
+       kaw yan bang jang, shat nneng n-gawt mi byin wa na
+       ra ai. Shaloi nang tsa dumbung sanit, shat nneng
+        ngawt sanit lu na ndai. Dai tsa hte shat nneng ni hpe
+       du magam n re ai, kawn chyinghkyi n noi ai mare
+       masha ni zuphpawng nna sha mu” ngu htet dat ma
+       ai</string>
+    <string name="B_name">       Dumsa Lalawn mung mu nat ni htet dat ai hte
+       maren galaw nna, du magam n lawm ai mare masha
+       ni hpe shaga zuphpawng nna sha ma ai. Dai lam hpe
+       du magam ni chye jang, “Numhti ni, myikrawk ni,
+       hpawnun ni, anhte du ni hpe n shaga, nanhte chyu
+       sha i?” ngu sharim tsun ma ai. Raitim mare masha
+       ni gaw dai shat nneng hte tsa lu ai kaw nna, hkrit
+       myit n rawng ai sha, shanhte hpe mahtang, “Hpa
+       baw du du, anhte du n ra ga ai” ngu, dai shani kaw
+       nna du ni hpe hkap kasat, kawn chyinghkyi dawm
+       kau ya manu ai. </string>
+    <string name="C_name">       Mu nat ni garum dat ai hta nap ngu ai hpri nhtu
+       chyahkrung, hpagup hte ninggang ni lawm ai. Ndai
+       hpyen rai ni hpe gumlau majan ngut ai hpang Mali
+       Hka de kabai bang kau masai. Raitim, ndai hpyen
+       rai langai ngai hkarang de kawq pru wa ai raiyang,
+       dai shara hta gumlau rawt uga! ngu nna matan da
+       ma ai.</string>
+    <string name="D_name">       Dai hpang dai mu nat ni jaw dat ai hpyen rai hta na
+       ninggang mahtang, Nbun Daru makau e kawq pru
+       wa nna, dai makau grupyin hta gumchying gumsa
+       rawt malan ai lam lang mi bai paw pru wa sai rai.
+       Gumrawng Gumtsa up hkang ai masa hta du ni
+       nga tim kawn chyinghkyi noi ai du ni nnga sai sha,
+       tinang magam wa la htan bam, ngu ai myit jasat hte
+       agyi, salang, mung du wa ngu ai hku nna up hkang
+       mat wa sai rai. Ndai up hkang masa hpe Englik prat
+       hta tawngchuk, agyi, salang ngu naw matut shagrin
+       da ya ai lam mu lu ai</string>
+    <string name="E_name">MAW MWI</string>
+    <string name="F_name">    Ninggawn Htung (Nature) hte
+    Nhtan Shai ai lam gaw Mara Re</string>
+    <string name="G_name">“Hka rap yang hka di hkrat si ai gaw ninggawn
+htung re, ya gaw, hkarang e nga ai hpe nan, dun
+sha mat ai gaw nau wa hpyau ai.” Wunpawng myu
+sha ni a hkam la ai lam hta myit yawn hpa rai tim
+ninggawn htung lai a majaw byin wa ai rai yang myit
+awai, myit shadik la lu mai ai lam hpe chye na ai.
+Ga shadawn, si hkrung si htan byin ai hta machyi
+makaw ai majaw, magam bungli galaw ai shaloi
+hkala nba hkrum ai majaw, lapu kawa ai, sharaw
+kawa ai a majaw byin mat ai raiyang, yawn hkyen let
+maroi nni tim myit shanem, myit shadik la lu nga ai.
+Raitim, dasang maw nna ninggawn htung n-ang ai
+hku roi rip dang sha ai, dasang sang masha hpe roi
+nna masu magaw ai, adip arip zingri ai, dip up sai
+chyup ai shaloi, maroi nni masin nsi ai lam byin nga
+ai hpe ndai maumwi gaw tsun dan nga ai. Dai majaw
+ninggawn htung lai hte nhtan shai ai lam gaw mara
+kaba tai wa nga ai.
+
+Masha a sak hkrung lam hte shinggyim wuhpung
+wuhpawng hpe n ngwi n pyaw byin shangun ai lam
+mahkra a npawt gaw shingra tara hpe tawt lai ai kaw
+nna byin pru wa ai lam ni a majaw rai nga ai. Karai
+Kasang nga yawng danghta hpe hpan da ai shani
+kaw nna, nga pra ra ai masa hte hkan nang hkan sa
+galaw gun hpai ra ai lam ni hpe shi na shi htap htuk
+ai hku hpajang da sai rai nga ai. Ndai hpan hpajang
+da ai lam ni a lai jasat ni hpe ninghkap jahten ai lam
+mahkra gaw nru nra, machyi makaw lam a npawt tai
+wa nga ai re. Dai majaw ninggawn htung tara hte n
+bung pre ai lam mahkra gaw mara tai wa nga sai.
+Myit sawn hpaji ninghkring ni sawn da ai lam hta,
+hpa lam hta raitimung shingra tara (Nature) hte
+nhtan shai ai lam mahkra gaw n kaja ai, mara re
+lam hpe tsun da ai. Du hkra ladaw, dusat dumyeng,
+shinggyim masha mahkra gaw shi a shingra tara hte
+maren nga pra, sak hkrung ra ai. Shi a shingra hte
+maren sak hkrung ai lam n nga jang machyi makaw
+hkrum wa ai, nngwi npyaw lam ni byin wa ai, nru
+nra nang shoi nang sha lam ni byin wa lu nga ai re.
+Mungkan madang dep lu hkra shakut shaja nga ai
+amyu kaba ni nga nga ai New Delhi, Beijing muklum
+ni hta 2016-2017 ning ni hta e, mare ting ting wan
+hkut hpring chyat mat ai majaw, jawng ni pat da ra
+mat ai, mungchying masha ni law law mung n-gup
+magap ai hte hkawm sa ra ai, hkam kaja lam hpe
+hkra machyi shangun ai lam ni hpe shiga ni hta mu
+lu, na lu nga ga ai re. Ndai lam ni gaw ngamu ngamai lam a matu shingra maka ni hpe jahten nna,
+
+shingra hte nhtan shai ai magam bungli ni a majaw
+byin pru wa ai manghkang ni rai nga ai. Dai majaw
+shingra tara hte nhtan shai ai lam mahkra gaw mara
+tai wa nga ai, ngu ai hpe myit sawn hpaji ninghkring
+ni tsun da ai lam gaw teng ai hpe mu lu nga ga ai.
+Karai Kasang gaw shinggyim masha hpe nnan hpan
+da ai ten kaw nna Karai Kasang hte rau nga let, shi
+a matsun maroi ga hpe madat hkan sa na matu rai
+nga ai. Karai a matsun maroi hpe hkan nang hkan
+sa nga ai shaloi masha gaw hkum tsup nga ai. Karai
+Kasang hpan da ai a yaw shada lam hku hkawm
+sa sak hkrung ai lam gaw masha a shingra tara rai
+nga ai. Ndai shingra tara rai nga ai Karai a ga hpe
+n madat n mara ai kaw nna shinggyim masha hta
+mara ngu ai byin pru wa ai re. Adam hte Ewa a aten
+kaw nna daini du hkra masha gaw Karai Kasang a
+ga hpe n madat n mara ai ngu ai lam nga ai re majaw, masha gaw mara lu ai ni rai nga ai. Ndai mara a
+majaw shada da nju ndawng, nru nra byin shangun
+nga ai re.
+Bai nna Karai Kasang gaw shi a hkrang bung ai hku
+masha ni hpe hpan da ai rai nna, masha hta wanglu
+wanglang galaw gunhpai nga pra, myit sawn chye
+ai sat lawat nga ai. Ndai zawn wanglu wanglang nga
+pra ai lam gaw Karai hpan ai lam a ninggawn htung
+rai nga ai. Dai majaw masha langai ngai a ahkaw
+ahkang hpe kaga masha langai langai e tek jum da
+ai raiyang, wanglu wanglang myit sawn lu ra ai lam
+hpe dut dang shangun ai masa lam ni nga ai rai-
+
+yang, masha hpe Karai Kasang jaw da ai shingra
+tara masa hte nhtan shai mat sai re majaw, dai zawn
+galaw ai ni gaw mara lu nga ai. Masha wa a shinggyim ahkaw ahkang hpe dingbai dingna jaw ai gaw
+Karai Kasang a hpung shingkang hpe dingbai dingna
+jaw ai lam rai nga ai. Dai majaw ndai lam gaw mara
+re.
+Myen mungdan hta nga ai amyu ni law law gaw,
+laiwa sai Englik asuya uphkang hpang ai aten ladaw
+du hkra, tinang lamu ga tinang up hkang nna n
+bung ai amyu mungdan hku nga ai ni hkrai rai nga
+ai. Anhte Wunpawng myu sha ni mung, tinang jadip
+jahpang tinang hkangzing nna nga pra nga ai amyu
+langai re. Ndai zawn nga pra nga ai kata kaw Englik
+asuya kaw nna shanglawt jawm la lu na matu, Englik asuya uphkang nga ai mungdan ni hpe kahkyin
+nna, munghpawm mungdan langai hku shanglawt
+jawm la na lam byin wa sai re. Ndai myit hkrum lam
+byin wa lu na matu amyu mungdan shagu a rapra
+ai ahkaw ahkang ni hpe hkam la lu nga ai lam, ga
+sadi laika hpe Panglung mare hta lakmat htu sai re.
+Dai majaw Munghpawm Myanmar Mungdan ngu ai
+mying daidaw nna mungdan gaw de wa ai rai nga ai.
+Dai majaw Munghpawm Myanmar Mungdan a shingra tara masa (Nature) gaw Panglung ga shaka hta
+ningpawt hkridun tawn ai, mungdan ni hpe gumhpawn da ai, mung masa lam yan rai nga ai. Ndai
+Panglung ga shaka a masa hte nhtan shai ai mung
+masa lam, mungdan gaw da ai hkrang mahkra gaw
+Munghpawm Myanmar Mungdan hte nhtan shai ai
+
+lam rai nna, Panglung ga shaka hpe tup hkrak hkan
+sa jai lang ai lam nnga yang, shi a shingra hpe ninghkap ai majaw mara hta hkawm taw sai re. Mara hta
+hkawm ai lam gaw nhkrum nra, garan ginhka ai lam
+a ningpawt ninghpang tai wa nga ai hte maren, ngwi
+pyaw simsa lam gaw n mai lu nga ai re. Ninggawn
+htung tara hte nhtan shai ai lai jasat mahkra gaw
+mazut roi rip ai kumla rai nga ai hte maren, ningre
+ai wuhpung wuhpawng hta tinggyeng akyu tam ai
+masha ni ka-up nna, sai chyup dip up ai lai jasat
+sha ka-up wa chye nga ai.
+Munghpawm Myanmar Mungdan a ninggawn mung
+masa gaw amyu mungdan shagu hta rapra ai ahkaw
+ahkang lu nna, Munghpawm mung shawa yawng
+ngwi pyaw simsa rawt jat lam hta kahkyin gumdin
+bawngring sa wa ai munghpawm mungdan gawgap
+ai lam re. Ndai masa hpe hkan shatup ai raiyang,
+nhkrum nra ai lam nnga na re, hpa majaw nga
+yang ninggawn htung masa langai hku masat myit
+hkrum sai re majaw ndai lam gaw yawng hpe hkap
+la hkan sa shangun lu ai myit jasat, up hkang masa
+ni rawng nga chyalu re majaw rai nga ai. Raitim,
+Munghpawm Mungdan kata hta lawm nga ai amyu
+mungdan amyu sha ni a ahkaw ahkang hpe rapra
+ai hku woi awn ai lam nnga jang, galaw hparan lu ai
+ahkaw ahkang n-ap ya jang, Munghpawm Myanmar
+Mungdan a byin da masa shingra tara hte nhtan
+shai sai re majaw, ndai lam gaw mara tai wa nna,
+mung shawa yawng n ngwi n pyaw lam hpe shabyin
+ya chye nga ai. Shingra tara masa hte nhtan shai ai
+lam mahkra gaw mara rai nga ai.
+Bai nna mungdan up hkang ai up hkang rung tsang
+hte tsang gaw mungdan magam gun ni a gaw da
+ai tara hte magam bungli lit matsun hte maren,
+dingding man man galaw gun hpai, hparan hpareng
+ra ai re. Lama na mungdan up hkang ai magam bungli galaw masha, tsang hte tsang gaw dingding man
+man bungli galaw ai lam n nga yang, ndai lam gaw
+mara rai nga ai. Tara rung ni hta tara jeyang dawdan
+ai lam kaw nna, manap gat hkan e gat dut sha nga
+ai ni yawng, mungdan asuya e masat da ai shadawn jitna hte hkrak gunhpai galaw ai lam n nga ai
+rai yang; nman ai joi ni asak hkrung nna, tara rung
+ni hta gumhpraw law jaw lu ai ni tara jawat dang ai
+lam ni law nga yang, dai gaw mara rai nga ai (Jaw
+Jau 19:35-36). Mungdan asuya e masat shagrin da
+ai ninggawn shawa yawng a matu mai kaja ai lam ni
+hpe n jai lang ai gaw ninggawn htung hpe tawt lai ai
+lam re. Ninggawn htung hpe tawt lai ai lam mahkra
+gaw mara rai nna, ndai zawn re ai shara hta si
+hkrung si htan, matsan mayan, yawn hkyen lam ni
+hkrai rai nga ai</string>
+    <string name="H_name">    Matsaw Ningtsang Hkrang lu ai
+    Maroi Nni Let Hpyi Jahtau ai Ga</string>
+    <string name="I_name">Tingmai ma Ja Ing a kraw madai lajin ai nsen gaw
+lahta tsang nga, gang hkau e pra ai Lashe La a kraw
+kata ahtu hkra ai hte, kraw kata tsawra myit shamu,
+tengman lam hpe dinghta ga e shadu mayu wu ai
+majaw, matse myit rawng baren numrawng hpe tara
+jeyang dat nu ai. Chyu dwi chyinghkai kanu a yawn
+madai let kaw lahpra madai ai nsen hpe na chye
+nna hparan jeyang ya na kaga masha, mungkan ga
+kaw nnga ai. Mungkan ga kaw mahtai tam yak ai roi
+rip lam hpe mungkan a madu, ngayawng danghta
+a daju wa chyu sha jeyang ya lu ai lam rai nga ai
+(Roma 12:19).
+Mungkan masha ni a lapran hta jeyang hparan na
+matu yak hkak ai ten, myit htum myit chyum ruyak
+hkrum ai ten hta mahtai kaja jaw hkye shalawt la
+lu ai gaw matsaw ningtsang na Karai Kasang sha
+rai nga ai. Wunpawng myu sha ni mung moi chyaloi nhkoi kaw nna chyahtum chyalai Karai Kasang
+
+hte matut mahkai let nga pra ai amyu re. Dai majaw
+n-gun atsam n bung ai lahkawng manghkang byin
+wa ai shaloi, mungkan ga kaw tengman ai mahtai
+hpe tam na matu nmai byin yak hkak ai majaw ndai
+maumwi hta si hkrum ai ma a kanu gaw matsaw
+ningtsang na ni hpe hpyi jahtau ai lam rai nga ai.
+Mungkan ntsa hta n-gun n bung ai ni a lapran manghkang byin wa yang mahtai kaja lu na matu grai
+yak la nga ai re, ningre ten hta mahtai kaja jaw lu ai
+gaw matsaw ningtsang na hpung rawng ai ni re.
+Suri hkawhkam jan Eshta gaw shi a amyu masha
+ni hte hpyen du kaba Haman a lapran nhtum nni
+ai manghkang kaba pru wa hkyen sai hpe shi chye
+wu ai. Raitim ndai lam hpe mungkan tara rung kaw
+tara jawat hparan na matu nmai byin nga ai. Hpa
+majaw nga yang, mayam Hebre amyu hte hkawhkam
+wa kam ram dik ai hpyen du kaba Haman, tara rung
+kaw hkrum lu na lam nnga ai. Hkrum lu dam tim
+tara dang na lam nnga ai. Hpa majaw nga yang, up
+hkang rung tsang hte tsang na masha ni mahkra
+hpe shi a ahkaw ahkang hte jahkrit shama galaw
+lu ai, ja gumhpraw hte tengman lam nbrawng hkra
+seng ang ai ni hpe n-gup pat kau da ya lu nga ai.
+Ndai gaw laba ka-up ai (Ahna Shin) wuhpung wuhpawng shagu hta hkrum sha nga ai maka langai rai
+nga ai. Ningre ten hta Eshta hte shi a amyu masha
+ni gaw shanhte kam hpa ai Yehowa Karai Kasang
+kaw, lu sha gam let shanhte hta byin hkrum hkra
+nga ai maw lanyet tsinyam lam mahkra hpe tsun
+dan let, Karai a n-gun atsam hte tengman ai lam
+
+hparan lu na lam hpyi lajin ma ai. Dai shaloi shinggyim myit nyan machye machyang hta grau lai chye
+chyang ai Yehowa a atsam marai gaw (Phil 4:7) Eshta hte shi a amyu masha ni hpe hpyen du kabaHaman a nhkru ai maw lanyet si hkrung si htan lam na
+mawai la lu ai hte tengman ai mahtai hpe shapraw
+lu wu ai re.
+Mayak manghkang lam langai byin jang, manghkang
+shabyin ai ningpawt ninghpang lam hpe chye ra ai.
+Ndai manghkang shabyin ai wa hpe atsawm tup
+hkrak chye jang ndai lam hpe dang lu ai, mahtai jaw
+lu ai lam hpe tam sawk sagawn ra nga ai. Chyum
+mungga hta “teng man ai lam mung nanhte chye lu
+marin dai rai nna, dai tengman ai gaw, nanhte hpe
+shalawt dat na ra ai,” nga tsun ai (Yawhan 8:32).
+Shalawt dat ai hkrum lu na matu gaw mabyin masa
+lam a tengman ai lam hpe chye ra ai re. Asak wenyi
+hkye la lu ai wa gaw Madu Yesu rai nga ai hpe chye
+let kam sham jang, asak hkye la hkrum ai zawn,
+tinang amyu sha lawt lam hkri dun ni hpe chye lu
+jang ndai hkridun hte lawt wa lu ai mahtai rai nga
+ai. Maga mi hta tinang sak hkrung lam a mai kaja
+lam ni hpe jahten sharun ai a npawt hpe chye ra ai,
+manghkang ningpawt hpe chye nna dai hpe tsi tsi
+kau lu jang mai kaja ai lam hpe hkam la lu na rai
+nga ai. Lahta na maumwi hta Tingmai ma Ja Ing gaw
+kasha hpe kashun sat kau ai lam hpe mu chye lu ai
+majaw, tengman ai mahtai tam la lu ai lam re.
+
+Rai yang gaw, “ntsun yang gaw nngut, nshadu yang
+gaw nhkut” ngu ai ga malai mi nga ai hte maren,
+daini mungkan ga e byin hkrum sha nga ai lam, byin
+mayu, byin ra ai lam mahkra hpe mungkan madu
+hpan daju hpe tsun dan hti shana dan ra ai re.
+Adam yan Ewa gaw Karai Kasang a ga hpe lale nna
+Karai Kasang n-galaw shangun ai bungli hpe galaw
+ngut ai hte Karai Kasang a man na makoi kayin mat
+wa ai re. Karai Kasang shan lahkawng hpe hkan tam
+nga ai raitim, shan hpe n mu wu ai. Hpang jahtum
+gara hku mung nmai makoi ai shaloi, singgu krin
+rai nna kaya ai majaw sumwum kata e makoi nga ai
+lam, Yehowa hpe tsun dan mu ai. Shaloi mahkra hpe
+hkawn hkrang chye na ya ai Wa Karai Kasang gaw
+shan a singgu krin re ai lam hpe magap ya na matu
+shanhpyi palawng hpe hpra hpra chywi ya wu ai.
+Karai Kasang Adam yan Ewa hpe shanhpyi palawng
+chywi ya ai lam gaw, shanhte lahkawng singgu krin
+rai nga ai lam hpe Yehowa hpe tsun dan ai majaw rai
+nga ai. Singgru krin rai nga ai lam Yehowa hpe tsun
+dan ai shaloi, shan lahkawng a matu hpa baw ra nga
+ai hpe Yehowa chye ya nna, ra ai lam hpe galaw ya
+ai lam rai nga ai. Ndai shara hta Adam hte Ewa gaw
+Karai Kasang hpe kashung katsi ai lam ntsun dan ai
+majaw, shan lahkawng hpe lum nba, panep ni chywi
+ya ai lam n-galaw ai hpe mu lu ai. Dai hte maren
+Madu Yesu Hkristu tsun ai gaw, hpyi mu shaloi nanhte lu na myit dai, tam mu shaloi nanhte mu lu na
+myit dai, nga ai lam re (Mahte 7:7). Mungkan masha
+ni a byin nga ai masa lam, hkrum sha nga ai tsiny-
+
+am tsindam hte nhtum nni ai lam mahkra hpe guji
+guyang Karai Kasang hpe tsun dan ra ai lam re.
+Raiyang, Karai Kasang hpe n tsun dan ai sha, masha a machye machyang hte hparan mat wa yang n
+mai ani? myit yu mai nga ai. Adam yan Ewa mung
+shanlahkawng singgu krin re ai hpe chye ai hte
+maren kalang lata Lakum lap di la nna chywi hpun
+ai lam chyum laika hta mu lu ai. Lakum lap gaw di
+la loi nna, lap mung pa ai majaw lawan ladan aloi
+ali hte singgu krin re ai lam hpe magap da mai nga
+ai. Shanlahkawng mung shim ai zawn nawn nga
+ma ai. Raitim Karai Kasang dai lam hpe yu yang,
+shan a kaya magap ai lam gaw aten na na makoi
+magap da lu ai lam nnga ai hpe mu chye ya wu ai.
+Hpa majaw nga yang, lahkawng masum ya raijang,
+Lakum lap gaw hkraw nyoi mat nna hten mat ai hte
+shan a kaya kahpa lam gaw malawng dan dawng
+pru wa na sha rai nga ai. Shawnglam hpe nmu
+nchye lu ai Adam yan Ewa gaw ndai lam hpe nchye
+lu ma ai, raitim, dai lam hpe chyoi chye nga ai Karai
+Kasang gaw shan hpe yu matsan dum ai hte shan
+lahkawng a manghkang rai nga ai singgu krin re ai
+lam hpe tsun dan ai hte shaning na na hkam ai baw
+shanhpyi hte galaw da ai palawng (One Suit) hpe
+chywi ya ai lam re. Masha a bawnu machye machyang, tinang atsam marai hte sha galaw ai lam gaw,
+shaning galu hta ngang grin na matu yak la nga ai,
+hkum tsup ai lam hkam la lu na matu nmai byin
+nga ai re. Dai majaw Yehowa Karai Kasang hpe byin
+nga ai, hkrum nga ai, byin mayu ai lam mahkra hpe
+
+asan sha tsun dan let shi lam woi ai hpe hkam la ai
+lam gaw hkrung grin ai chyeju lam a matu ahkyak
+dik ai lam rai nga ai.
+Bai nna, Chyum mungga hta, tinang a matu sha
+nrai, masha gale a matu mung myit nga mu (Phil
+2:4), nga nna tsun da ai hte maren tinang langai
+hkrai a matu, tinang amyu langai hkrai a matu sha
+nrai, kaga n kam n sham ai ni a matu mung Karai
+Kasang kaw htinglu htinglai ya mai nga ai. Bai nna
+Madu Yesu gaw tinang a hpyen wa a matu akyu hpyi
+ya ra ai lam hpe tsun da nga ai. Ndai gaw teng ai lam
+re, hpa majaw nga yang, Karai Kasang gaw shinggyim masha ni hta byin nga ai lam mahkra hpe shi hpe
+tsun hpaw hpyan dan shangun nga ai re. Dai majaw
+tinang a hpyen wa galaw taw nga ai lam mahkra hpe
+guji guyang asan sha Karai Kasang hpe tsun da ra
+ai. Tinang a ntsa n kaja ai hku galaw nga ai lam,
+masha shawa a ntsa nteng nman ai hku galaw nga
+ai lam, tengman rapra lam hpe nchye hkam sha,
+nmu lu nga ai lam ni hpe asan sha tsun dan let,
+Karai Kasang a tengman lam hpe shapraw dan lu na
+matu hte, tinang hpe n kaja ai hku galaw ai wa a sak
+hkrung lam hta Karai Kasang hpe chye chyap wa lu
+na hte shi a tengman lam mu lu wa na matu byin
+nga ai mabyin hte maren hkrak sha Yehowa hpe
+tsun dan ra ai re.
+
+Karai Kasang hpe tsun hpyan dan, garum hpyi ai
+shaloi she tengman ai mahtai gaw lu na rai nga ai.
+Masha a n-gun atsam hte tengman ai mahtai tam
+na grai yak nga ai. Mahkra hpe dangdi lu ai wa gaw
+Yehowa Karai Kasang rai nga ai hte maren, shi hpe
+jahtau shana nga na gaw masha a lit rai nga ai.</string>
+    <string name="K_name">  Karai Kasang Madun Dan ai
+    Kasi Ningli</string>
+    <string name="L_name">Masha a matu akyu nrawng nna, shinggyim wuhpung wuhpawng hpe nru nra rai shangun ai masa
+langai hpe nra sharawng ai lam tsun na gaw aloi
+sha rai nga ai. Raitim, gara masa lam mahtang gaw
+yawng a matu htap htuk nna hkan nang hkan sa
+manu ai hkrang masa rai kun, ngu ai hpe chye na
+hkawn hkrang na gaw nloi ai lam re.
+Wunpawng myu sha ni a labau hta gumchying
+gumsa lai ladat hte up hkang ai aten grai galu lai wa
+sai re. Ndai up hkang lai jasat kata hta dip sha dang
+sha, sharim shama, nru nra, nngwi npyaw, lachyen
+lahka, re ai lam ni grai law nga lai wa sana re. Gumchying gumsa up hkang masa hpe n ra sharawng ai
+mung shawa ni mung grai law na sai, n ra sharawng
+ai lam hpe tsun shapraw ai lam ni mung nga lai wa
+na sai hpe myit sawn dum ai. Raitim ndai gumchying gumsa lai jasat hpe galai kau nna, grau kaja ai
+lai ningli hpe hpyan dan, madun dan let woi awn
+
+jai lang sa wa na gaw grau ahkyak ai re. Byin nga
+ai masa hpe nra sharawng ai lam tsun shapraw na
+gaw loi tim, ya na mabyin masa hta grau hkrak ai up
+hkang lai masa langai hpe bai shachyen ya, jai lang
+mat lu na matu gaw n loi nga ai.
+Dumsa Lalawn a prat hta gumchying gumsa lai
+masa hpe shi nan mung nau wa n ra sharawng nga
+ai lam maram lu ai. Raitim shi hku nna gumchying
+gumsa masa hpe galai kau na ngu ai hpe n hkawn
+lu ai. Shi gaw ndai masa hpe nau wa n ra nga ai
+ngu maram lu ai re. Dai majaw matsaw ningtsang
+ni mare hpan amyu myu hpe madun mat wa ai lam
+hta htinggaw mali manga hte akatsi katsang, aw
+tsat le tsat rai nna sha nga mat sai mare hpe mu ai
+shaloi shi n-gun n lu nga ai. Yu mada yu ai shaloi
+myit lum kabu shangun lu ai lam n nga ai hpe mu
+lu ai. Hpa majaw ndai gumchying gumsa mare hpe
+mada yu yang dai hku byin ata? Shada da dip sha
+let up hkang ai shara hta mungchying masha ni myit
+n-gun n hpring lu ai, matsan jumjau lam law ai,
+shimlum lam n nga ai hte hkrit kahpra let nga pra ra
+ai, shada da tsawra myit madun ai lam ni kawp wa
+lu ai, myit pyaw kabu gara ai lam ni yawm wa lu ai.
+Ndai zawn re ai lam ni a majaw gumchying gumsa
+mare hta pyaw ngawn simsa lam ni kawp mat nna,
+katsi katsang byin wa nna mare ni kaji mat ai lam re
+hpe matsaw ningtsang na ni madun dan ai lam rai
+nga ai.
+
+Masha kaga ni hpe dang sha, dip sha ai wuhpung
+wuhpawng ni hta masha kaga ni ngwi pyaw kabu na
+lam hpe pat hkum nna tinang tinggyeng akyu sha
+tam ai lam rai nga ai. Shawa dawtsa a kashu kasha
+ni hpaji sharin la na matu yak hkak nga ai ten, du
+ni a kasha ni gaw madang tsaw ai hpaji, maigan de
+hpaji sharin hkam la nga dingyang re. Shawa masha
+ni tinang dum nta kata nsin nmun hta katsi katsang
+lu na sha na yak hkak nga ai ten hta, arawng aya
+lu ai du magam ni gaw lu let sha let poi kaba galaw
+pyaw chyai nga ma ai. Kashung katsi marang madi
+yang, lum lum hpun na buhpun palawng nlu, hkru
+hkru yup na yup ra nmu ai ten hta, du magam ni
+gaw galai gachyai kalang lang ngut ai arai hpe gaw
+maza ka hta kabai, tinang tsawmhtap nga pyaw lam
+hpe hkrai shareng nna pyaw len nga lu ma ai. Kaga
+masha ni a kawsi garut ai lam hpe hpa zawn nnawn
+ai gaw laba ka-up dip sha ai lai masa hpe jai lang
+ai wuhpung wuhpawng shagu hta byin hkrum hkra
+nga ai lam re.
+Laba ka-up up hkang ai lam hkam sha nga ai mung
+shawa ni a tsin-yam gaw, tinang tsawra dik ai kashu
+kasha ni sha na malu masha hpe arawng aya lu ai
+ni hpe jaw sha kau nga ninglen, nga shara ni hpe
+shanen la kau ya ninglen, shanhte hte hkrum shaga
+ai shaloi mani sumsai hte du wa galaw ai amu bungli grai kaja htap htuk ai ngu tsun ya ra nga malu
+ai. Tinang kahpu kanau sai daw sai chyen ni hpe
+sat nat, adip arip di ai ni hpe akaw alaw ta matut
+shakram hkat let chyeju kaba sai, nga tsun nga ma
+
+ai. Tinang a shimlum ai dum nta, yi sun hkauna ni
+hpe la kau ya ai ni hte mani shaga rai, rau lu rau
+sha rai ra nga ma ai. Shinggyim sari sadang hpe jahpoi hkrat sum shangun ai nanghpam malu masha,
+mayam rem ladat hpe shangang ya ai hpaji ladat,
+shayi sha hkawn sek ni hpe gyam maw sha ai lam
+ni a majaw nse nsa shalaw ya ai, ningre lam ni hpe
+adan aleng galaw let amyu shayuk ai amu hpe mu
+chye nga ninglen, ndai zawn woi galaw ai ni hte ngun kahkyin myit mang shabawn lawm ya ra ai lam
+ni gaw shani shagu hkrum sha nga ai tsin-yam lam
+ni rai nga ai.
+Mung shawa masha ni a shut shai ai myit mada lam
+gaw, mungchying shawa a ruyak jamjau nni nkri
+lam hpe, mungdan up hkang nga ai ni mu mada
+chye na wa ai shaloi, shanhte a up hkang ai lai jasat
+ni galai nna, rapra ai hte mung shawa akyu hpe woi
+myit mang na re, ngu ai lam re. Dip up sai chyup
+laba ka-up sha (Ahnah Shin) ai myit rawng ai asuya
+langai myit malai na ngu ai gaw nmai byin ai. Myit
+malai wa lu ai baw tsawra myit shi hta n rawng ai.
+Mung shawa ni nsen shapraw nna shanhte a lam
+hpe chye wa hkra shakut ai raiyang, mi na hta grau
+sawng ai nhkru ai ladat hte mung shawa hpe sharim jahkrit, shamyit na ladat hpe she tam ai gaw,
+laba ka-up sha ai lai jasat lang ai ni galoi mung jai
+lang ai ladat re. Dai majaw ndai zawn re ai up hkang
+masa hpe gaw gasat gala let agrawp jahkrat kau ai
+lam hku nna sha awng dang lu nga ai lam hpe ndai
+maumwi hta mu lu ai re. Gasat gala let awng dang
+
+ai shaloi, awngdang wa lu na matu kaning re ai up
+hkang lai jasat jasa hpe jai lang let mungchying
+shawa a mai kaja akyu ara hpe gawgap mat wa na
+ngu ai, myit mada shingran kaja hpe gaw sharawt ra
+nga ai re. Ndai mai kaja ai shingran hpe hpaji byengya tutnawng jaw ya nga ai Yehowa Karai Kasang kaw
+nna lu la nga ai.
+Matsaw ningtsang ni gaw, yu tsawm ra tsawm nna
+mung masha ni kabu gara mani shaga rai nga ai,
+htoi san nna ra tsawm ai mare hpe madun ma yang,
+Dumsa Lalawn gaw dai mare hpe grai yu sharawng
+wu ai. Ndai zawn re ai mare hpe mungkan ga kaw
+galaw na myit ra sharawng nni, ngu nna san yang
+shi ra sharawng ai lam tsun ai re. Mungkan ga a nru
+nra, adip arip re ai masa hku up hkang woi awn nga
+ai mare kahtawng, mungdan ni hta rapra ngwi pyaw
+ai mare, mungdan ni byin wa lu na matu, matsaw
+ningtsang na ni a hpyan madun ai lam, jahkawn
+jahkrang la ai lam ra nga ai. Masha a hkum shan
+myit hku nna, grau nna laba ka-up myit (Authoritirianism) jasat nga ai masha ni a lapran kaw nna
+mai kaja ai up hkang masa pru wa lu na ngu ai gaw
+gara hku mung nmai byin ai lam re.
+Wunpawng myu sha ni a labau hta mu lu ai gumrawng gumtsa up hkang masa gaw, matsaw ningtsang ni madun ai kaja ai kasi langai rai nga ai.
+Matsaw ningtsang ni hpyan madun dan ai re majaw,
+ndai up hkang masa hta mai kaja tengman lam,
+ngwi pyaw rapra lam ngu ai hpe mu lu ai. Gumchy-
+
+ing gumsa masa n rai sai majaw, woi awn ai ni n nga
+ra ai, ngu ai lam n re. Woi awn ai salang ni, agyi ni,
+du ni ngu nga ai. Raitim rapra lam hta rudi ningpawt
+gawgap ai up hkang lam re majaw, gumrawng gumtsa up hkang lam hta tsawra let pawn ba garum hkat
+ai lam, mare ting a galaw lu galaw sha, hkwi lu hkwi
+sha lam hte seng nna shada bawngban jahkrum let
+rau rau amu chye galaw ai, myit hkrum ai lam ni
+hpe mu lu ai. Myit hkrum tsawra ai myit nga ai re
+majaw, shada da ntsen ai myit, makoi magap lagu
+lagyim rai nga ai myit ni hkoi mat wa ai re. (Ga shadawn, shawng daw de mare kahtawng hkan u sat sha,
+u lu gap rai nna shadu sha na rai yang, shan tawk
+ai nsen npru hkra abwi sha galaw ra ai. Shan hkak,
+shan tawk ai nsen ja yang hpyi lamum nat ni na nna
+nampumpum wa na ra ai, ngu tsun chye ma ai. Hpyi
+lamum nat ni a majaw nampumpum na hpe tsang
+ai ngu ai hta, kawn njaw ram, nlaw la ai majaw du
+magam ni ndum nna hkra galaw ai lai jasat mung rai
+nga ai). Ningre ai makoi magap galaw ra ai laikyang
+ni gaw masha ni a myit hta chyung mat nna, gyip
+gyeng nna hkrit tsang ai myit rawng ai maga de gale
+wa shangun ai lam byin chye nga ai.
+Hkristan makam hta masha gaw Karai Kasang a
+hkrang bung rai nna, shi hta lu ging lu ra ai ahkaw
+ahkang ni hpe Karai Kasang jaw da sai re. Dai hpe
+jai lang asung jashawn nna Karai myit ra ai lam
+hta mungkan hpe dawjau na matu re. Dai majaw
+marai langai hkrai gaw manu dan nna, shi a atsam
+ningja hte mungkan hpe dawjau lu ra ai. Dai atsam
+
+marai hpe jai lang na ahkaw ahkang mung lu ra ai,
+shapraw dan na shara mung nga ra ai. Dai majaw
+gumrawng gumtsa (Democracy) up hkang ladat gaw
+Hkristan ni a matu htuk manu ai up hkang ladat re.
+Gumrawng gumtsa up hkang ladat hta, mung shawa
+yawng a nsen hpe madat ya ai, shanhte a n-gun
+atsam hpe jai lang na ahkaw ahkang nga ai, galaw
+lu ai ahkaw ahkang nga ai. Dai re majaw Karai a
+hkrang bung rai nga ai hte maren, Karai Kasang jaw
+da sai atsam ningja ni hpe tup hkrak asung jashawn
+lu ai ahkaw ahkang nga ai re.
+Gumrawng gumtsa up hkang masa kata hta lawt
+lam nlu ai wa, shingbyi shara nmu kaw si hpang
+gara hkrum ai lam gaw tinang amu bungli n shakut ai majaw re. Gumchying gumsa masa hta gaw,
+shakut mayu tim shakut na yak hkak ai lam ni nga
+ai, shakut ai daram hpe tinang hkam sha lu na matu
+mung yak nga ai. Ndai gaw shai hkat ai ahkaw ahkang a majaw rai nga ai.
+Raiyang, gumchying gumsa masa n kaja ai hpe tatut
+hkam sha, hkrum gadup nga ai majaw chye lu ai
+raitim, grau kaja ai gumrawng gumtsa up hkang
+masa nga ai lam, gara hku up hkang yang kaja ai,
+ngu ai hpe gara hku chye lu na ata, ngu ai hpe sawn
+yu yang, Dumsa Wa Lalawn ngu ai shinggyim masha hte wenyi mungkan hpe matut mahkai lu ai wa,
+matsaw ningtsang ni hte matut mahkai lu ai wa kaw
+nna hpang wa ai rai nga ai. Daini na ten hta matsaw
+ningtsang ni hte matut mahkai lu ai gaw kadai ni
+
+rai nga ata? ngu ai hpe sawn yu yang, Madu Yesu
+hpe kamsham ai Hkristan ni rai nga ai. Kamsham ai
+hpung masha ni hpe woi awn nga ai hpung magam
+gun ni rai nga ai. Mungga masa hta jaw hkrak ai
+wuhpung wuhpawng a hkrang kasi hpe chyoi chye ai
+mungga lu la sai kam sham ai ni gaw, ndai magam
+bungli hta nhki nsang shakut shaja gaw gap la na lit
+lu ai ni re.
+Karai Kasang a dinghpring tengman ai lam hpe chye
+na hkawn hkrang ai gaw Madu Yesu hpe hkap la
+kam sham ai ni re. Dinghpring tengman lam gaw
+Karai matsun ai kam sham ai hpung masha ni a
+hpunda rai nna, tengman dinghpring ai lam gaw
+Karai Kasang a ga ndat ni hpe hkan sa let magam
+amu shagu hta jaw ang ai hku tup hkrak galaw ai
+lam re. Galaw ai lam, myit mang ai lam hta tengman
+ai hku shi a masat da ai shadawn jitna hte maren
+hkan nang hkan sa yang chyu sha masha a wuhpung wuhpawng gaw ngwi pyaw simsa let rapra ai
+lam lu la na re. Dai majaw Karai Kasang a mungga
+hpe chye chyang ai makam masham nga ai Hkristan
+hpung shagu a magam lit gaw, tinang nga ai makau
+grupyin hte mungdan kata hta, magam bungli lam
+shagu hta, hkan nang hkan sa ra ai lam ni hte tup
+hkrak hkan sa jai lang lu hkra lam tam shakut,
+gram lajang woi awn na lit nga ai. Tengman ai mahtai hte sakse sakgan ni nga tim, gumhpraw law lu
+jaw ai wa tara jawat dang ai tara rung hkan e, dinghpring tengman ai lam ni ka-up wa lu hkra n-gun
+hpungtun dat na gaw kamsham ai Hkristan ni a lit
+
+re. Nman ai joijang ni ka-up nga ai manap gat hkan
+e tengman ai joijang, tengman ai shadawn shadang
+hte dut mari chye wa lu hkra shading sharai na gaw,
+mungga ninghtoi hpe lu la sai Madu a sape ni a lit
+nan rai nga ai.
+Shinggyim masha gaw Karai a hkrangbung rai nga ai
+majaw shingni atsam ningja hte sari sadang hpring
+ai masha re. Madu Yesu hta kam sham ai a marang
+e masha a sari sadang gaw dinghpring ai ni ngu
+nna Karai Kasang e masat la ai hkrum sai re. Ndai
+zawn hpring tsup ai sari sadang hpe jahten sharun
+kau nna, dusat zawn nga pra shangun ai gaw ka-ni
+nanghpam malu masha re. Karai a hkrangbung hpe
+hpya ayai kau nna hpa n-kaw ai masha shatai kau
+ai lam gaw Karai a mungdan hpe hpya ai hte bung
+nga ai. Dai majaw nanghpam hpan amyu myu hpe
+galaw shapraw, shachyam shabra ai lam gaw Karai
+a hpung shingkang hpe jahten shaza ai lam re. Karai
+a hpung shingkang hte jahten shaza nga yang Karai
+a mungdan gaw grin nga lu na nre (Luka 11:17-20).
+Dai majaw nanghpam hpe jai lang, galaw shapraw
+ai lam gaw Karai Kasasng a hpyen re, amyu langai
+a hpyen re, nawku hpung a hpyen re, hpung masha
+shagu a hpyen re. Nanghpam malu masha hte shinggyim sari jahpoi ai magam bungli shagu gaw Karai
+Kasang a mungga hte nhtan shai nga ai.
+Bai nna adip arip roi sha hkrum ai lam, shingbyi
+shara nlu ai lam, malu masha n-grung ai (Malnutrition) lam, kaya hkrum na daram matsan ai lam ni
+
+gaw shinggyim sari hpoi shangun nga ai. Shinggyim
+sari hpoi na daram yak hkak ai lam a npawt gaw
+tinang hkam sha ai wa hta sha mara nga ai n re,
+uphkang hkrang masa lam hte woi awn ningshawng
+nga ai ni a myit jasat hte mung seng nga ai. Dai majaw shinggyim sari hpring wa lu na matu, mungga
+masa hta jaw hkrak ai wuhpung wuhpawng hpe
+gawgap la ra nga ai, mungga masa hta jaw hkrak ai
+mung up ningbaw, mare kahtawng up hkang ningbaw ni hpe lata san da chye ra nga ai re.
+Mung shawa ni n-gwi tsun, n-gwi shaga nna zim
+sha nga ai hpe simsa ai ngu sawn la ai gaw n-gun
+laba ka-up sha mayu ai masha ni a myit jasat rai
+nga ai. Dai majaw masha law law hpe jahkrit shama
+let dinghkrai a galaw lu galaw sha lam hpe sha myit
+mat wa hkra maw mawn ai re. Wuhpung wuhpawng
+myit jasat hte madu myit ni hkoi mat nna tinggyeng
+lawt lu lam hpe sha myit mat wa ai masha, hkrit
+kahpra ai myit a majaw masha shingnawm tai mat
+wa shangun nga ai. Ndai zawn re ai masha ni hte
+kanawn mazum let myit nyan ninghtoi jaw ai Madu
+Yesu gaw hpang jahtum shi Yerusalem mare de du
+shang wa ai shaloi, mare masha ni law law lam ntsa
+de du pru wa ai madang kaw du hkra re. Shawa
+masha ni a myit kraw kata shanu nga ai, shanhte
+hkam sha lam hpe chye ya let shalawt la mayu ai
+myit rawng ai wa, shalawt la ai wa, rai nga ai majaw rai nga ai. Tinang hpe shalawt la na, woi awn
+na wa kaning re ai masha hpan rai ra ai ngu ai hpe
+hkawn hkrang mat wa ai shawa masha ni a majaw
+
+rai nga ai. Shawa myit mada nga ai lam hpe jaw ya
+lu ai hkye la ai wa re majaw re. Dai majaw shawa ni
+a nsen pru wa hkra, shawa a atsam dan dawng wa
+hkra, kaning re ai masha ni wuhpung wuhpawng
+hpe woi awn ra ai, ngu ai hpe hkawn hkrang wa
+hkra, lam woi jahkawn jahkrang ai gaw mungga lu ai
+Hkristan ni a lit kaba rai nga ai.
+Jinghpaw ga malai hta “marai masum myit hkrum
+yang, panglai nawng htawk lu ai,” ngu tsun da
+ai. Myit hkrum kahkyin dumdin nna magam amu
+gunhpai yang, yak hkak ai lam kade kaba tim awngdang wa lu ai lam hpe tsun mayu ai rai nga ai. Madu
+Yesu tsun ai “Kaning rai nme law, marai lahkawng
+masum, nye a mying hpe gang nna zuphpawng nga
+ma yang gaw, dai yang shanhte a ka-ang e ngai
+mung lawm nga nngai, ngu mu ai” (Mahte 18:20).
+Marai lahkawng masum myit hkrum nna Yesu a
+mying gang yang shi nan shanhte a ka-ang e du na
+re lam Madu Yesu ga sadi jaw da sai re. Madu Yesu
+lawm ai rai yang, kaning re ai yakhkak lam hpe
+mung tawt lai lu na rai nga ai. Jinghpaw ga malai
+a namchyim gaw myit hkrum kahkyin gumdin let
+rau hpawng chyawm ai lam hta Karai lawm nga ai,
+bawngban jahkrum let amu galaw ai lam hta awngdang lam lu nga ai, ngu ai lachyum rai nga ai. Kahkyin gumdin yang n-gun byin ai lam chyum mungga
+hta tsun da ninglen, daini anhte a makau grupyin
+hta amyu langai a lapran garan ginhka let woi awn
+up hkang ai lam lani hte lani grau dan leng wa nga
+ai, grau n-gun dat wa nga ai hpe mu lu ai. N-yun bu
+
+ai masha zawn rai nna kaga wuhpung wuhpawng ni
+hpe tara n shang ai hpung nga masat ndau, kam ai
+shaloi gaw tara shang rai sai ngu masat ndau, rai
+nna kam mara galaw nga ai wuhpung wuhpawng
+kaba ni mung nga nga ai. Karai Kasang a mungga
+hte nhtan shai ai lam mahkra gaw tsadan a magam
+bungli rai nga ai. Dai majaw tsadan a magam bungli rai nga ai, amyu langai hpe garan ginhka let woi
+awn up hkang ai lam hpe ninghkap gasat ra nga ai.
+Wunpawng myu sha ni a kraw hta amyu sha lam
+yan pandung langai sha rai nga ninglen, arawng aya
+hte sut lu ngamai lam hte lau la nna, wuhpawng
+kata myit mala hka hkra maw mawn ai lam ni nga
+nga ai re. Dai majaw amyu sha lawt lu lam hta kahkyin gumdin let magam amu shagu hta rau jawm
+gunhpai nna, Karai Kasang ra tsaw sharawng awng
+ai lam hpe yin la hkan sa nga ra ai.
+Mungdan up hkang a ni gaw kaja ai amu galaw ai ni
+hpe shagrau shatsaw let shinggyim wuhpawng hpe
+yu reng na matu Karai mungga hta tsun da ai. Mai
+kaja ai magam amu law law hte shatsawm jahtap
+dawjau na matu Karai Kasang tsun da ai (Roma
+13:3-4). Tinang nga ai ginra buga hta mai kaja ai
+galaw ai ni hpe shagrau shatsaw nna, n shawp ai
+amu galaw ai ni hpe kaja wa ari jaw nga ai kun, ngu
+ai hpe dinglik yu mai nga ai. Kaja ai masha ni hpe
+shagrau shatsaw na malai, ga madat ai ni hpe shagrau ai, tinang akyu ara gaw gap garum ai ni hpe
+shagrau shatsaw ai lam, masat masa galaw shakut
+nga ai rai yang, mungga hte nhtan shai nna wuh-
+
+pung wuhpawng hpe hpya jahten taw ai lam tai wa
+sai. Dai majaw shawa a mai kaja ai lam hpe gawgap
+na shawang tsawra myit kaba hte woi awn ai ni a
+lata hta tinang mare buga, mungdan a gam maka
+hpe woi sharawt na ahkaw ahkang hpe ap da lu hkra
+galaw ra nga ai re.
+Karai Kasang shinggyim masha hpe hpan da ai ten
+kaw nna amu bungli galaw let sak hkrung ra ai lam
+tsun ai (NN 2:15). Masha hku nga pra na matu mai
+kaja ai magam bungli langai hta myit maju jung nna,
+Karai a chyeju hpe ginlen la ra nga ga ai. Dai majaw
+mungga hta amu n-galaw ai wa gaw shat mung n
+sha uga, nga tsun da ai lam rai nga ai (2Htes 3:10).
+Magam bungli ngu ai gaw masha langai a sari sadang re. Bungli n-galaw ai wa lagawn lamawn rai myit
+yup let, hpoi mat ai masha tai na lam sha nga ai re.
+Raiyang, magam bungli galaw let nga pra ra ai masha ni gaw bungli n lu galaw mat ai ngu ai gaw hpa
+baw a majaw ta?, machyi makaw ai majaw kun, n
+kam ai majaw kun, bungli kaja n nga ai majaw kun,
+ngu ai hpe sawn yu ra nga ai. Lama na, bungli n nga
+ai majaw amu n lu galaw ai raiyang, magam bungli
+nga wa hkra woi jasat na gaw woi awn ai ningbaw
+ni, asuya a lit rai nga ai. Mung shawa ni a galaw
+lu galaw sha lam hpe shimlam n lu jaw ai raiyang,
+mungdan up hkang na matu n mai ai. Ningbaw tai
+n-ging ai lam byin wa ai re. Dai majaw mung shawa
+ni hkam kaja nga ninglen bungli n lu ai lam gaw, up
+hkang ai ni a ra rawng ai lam a majaw rai nga ai.
+
+Karai Kasang a mungga joijang hte shen yu ai shaloi
+anhte a wuhpung wuhpawng hta hpung masha ni a
+ra rawng ai lam, galaw ra ai lam ni hte woi awn ningshawng tai nga ai ningbaw ningla ni a nhkaw ntai ai
+lam ni law law hpe mu lu na re. Dai hpe mu chye lu
+ai lam nan gaw Karai Kasang a mungga a majaw rai
+nga ai. Karai Kasang a mungga gaw hpaji byengya
+rai nga ai re hte maren, masha langai a nga ra, mu
+ra, hkam sha ra, lu la ra ai ahkaw ahkang mahkra
+hpe hpyan dan ai mungga re. Dai majaw wenyi
+hpring ai Hkristan ni gaw shawnglam hpe shingran
+mu let, dai shingran hpe gawgap ra ai re (Yoela 2:28).</string>
+    <string name="M_name">Magrau Grang Wunli Lawm ai
+            Ga Shaka</string>
+    <string name="N_name">Mungkan a rawt jat wa ai labau hpe mada yu ai
+shaloi, nlung prat, magri prat, jak prat, ya gaw IT
+prat, ndai hku rawt jat wa ai lam hpe maram yu ai
+shaloi brangram ni a shingran mu ai lam hpe tatut
+hkrang shapraw ai majaw rai nga ai. Prat ban ladaw
+hte ladaw masha wuhpung wuhpawng a grau mai
+kaja ai hku akyu jaw ai magam amu, gun rai ni hpe
+myit shingran let, dai shingran hpe tatut jai lang
+mai ai kaw du hkra hkrang shapraw sa wa ai shaloi, kaja wa masha law law a matu mai kaja ai lam
+ni byin wa nga ai. Mungkan a ringchying wa ai lam
+hta brangram ni a shingran hpe hkrang shapraw let
+rawt jat galai shai wa ai zawn, Wunpawng myu sha
+ni a gam maka galai shai rawt jat wa lu uga, daini na
+brangram ni a amyu sha shawng lam shingran hpe
+dai Madu Karai Kasang hte rau gaw gap la ra nga ga
+ai. Anhte a yup mang shingran gaw amyu sha ting a
+mai kaja bawngring lam hpe gawgap ya ai lam ni rai
+
+ra nga ai. Ya byin nga ai mabyin masa hta grau mai
+kaja ai lam hpe shingran mu ai, kaja wa grau hkrak
+ai hku lu galaw na re ngu ai hpe myi htoi htoi ra ai
+re. Shanhte a shingran de gwi gwi du hkra sa lu ai
+myit ningja a majaw tengsha rawt jat wa ai lam rai
+nga ai (Yoela 2:28).
+Hkrit myit ngu ai gaw n-gun kya ai wa a maka kumla re. Dai majaw adip arip roi sha mayu ai masha ni
+gaw mung shawa ni hpe jahkrit shama galaw nga ai.
+Hkrit myit rawng ai ni hpe up hkang loi ai. Gumchying gumsa prat chyinghkraw galu ai gaw du magam
+ni hpe gumlau rawt na lam mahkrun nmu ai hte
+n-gwi ai majaw rai nga ai. Dai majaw matsaw ningtsang ni gaw masha a hkrit myit hpe shaw kau ya
+nna, myit nden shaja ai lam galaw dat ya sai re.
+Gumrawng gumtsa mare hpe yu ra ai hte dai zawn re
+ai wuhpung wuhpawng hpe mungkan ga hta gawgap mayu ai lam a majaw, matsaw ningtsang ni gaw
+Dumsa Lalawn hpe mungkan masha ni hpe myit
+marai shaja ya lu na matu, chyanun tsahku mai-aw
+dinghkang sanit hte shat nneng (nbaw) madawng
+sanit hpe jaw dat ma ai. Dai chyanun tsahku hpe
+mungkan ga kaw du nna htinggu hta bang dat yang,
+htinggu kaba sanit lu ma ai. Bai nna shat nneng
+madawng sanit hpe n-gawt hta hpyan bang dat yang,
+n-gawt kaba sanit lu ma ai. Matsaw ningtsang ni jaw
+dat ai chyanun tsahku hte shat nneng hpe du magam ni (mung shawa hpe adip arip roi zingri sha ai ni,
+mungga hte nhtan shai ai amu galaw ai ni) nlawm ai
+
+sha, mung masha ni sha jawm sha ma ai. Dai shaloi
+du magam ni gaw mung shawa masha ni hpe “Numhti ni, myikrawk ni, hpawnun ni, anhte du ni hpe n
+shaga, nan hte chyu sha i?” nga nna mara shagun
+jahkrit shama rai sharim ma ai.
+Adip arip sai chyup ka-up sha man ai masha ni gaw
+mung shawa ni hpe galoi mung lagawn lamawn ali
+ahti re ai ni, ntsawm nhtap nkung nkang re ai myitkrawk ni, grit nem ai myit jasat rawng nna hpa
+akyu npru ai ni, ngu ai hku sha mu chye ma ai. Dai
+hku sha kanawn mazum chye ai ni re. Manu shadan
+chye ai tsawra myit mahkra kawp mat sai ni rai ma
+ai. Mung shawa masha ni a ma kaji ni kawsi hpang
+gara let hkrap nga tim, lakawn pawn ba la na myit n
+rawng ai. Matsan mayan rai let company kaba ni a ja
+nhkun, lungseng nhkun makau hkan garet hkawm
+let kanbau bungli a matu tsawm mari shakut shaja
+nga ai ni hpe, lagu lagut maw mawn hkyen ai masha ni re hku sha myit la sawn la chye ai ni re. Du
+magam ni a akyu hta lai shawa a ngamu ngamai lam
+hpe galaw wa jang jahte tam let mara shagun nna
+hpya ayai kau na sha myit ai gaw roi rip dip sha nga
+ai masha ni a laikyang re.
+Raitim, matsaw ningtsang ni jaw dat ai chyanun
+tsahku lu nna shat nneng sha ai masha mahkra
+gaw hkrit myit ni pru mat wa nna, tengman rapra
+ai lam hta lit la mayu ai myit ni galai mat wa nga
+ai. Shanhte gaw du magam ni hpe hkrit kahpra nga
+ai kaw nna, shawa dawtsa a akyu ara hpe gawgap
+
+la mayu ai myit, masha loi mi a akyu hpe pawnba
+nga ai kaw nna, mung shawa a shimlam shatsaw ya
+ai myit, dip up sai chyup ai lailen hpe shamit shatsai kau nna, tengman rapra lam hpe gawgap mayu
+ai myit, ni galai mat wa sai re. Hkrit myit hkoi mat
+wa nna mai kaja lam hpe tsawra chye wa ai shaloi,
+masha gaw manu dan ai masha tai wa nna lawt lu ai
+masha rai sai re. N kaja ai hku dip up roi rip nga ai
+lam hpe hkam mana sha nga ai kaw nna, tengman ai
+ahkaw ahkang hpe hkam la lu na matu gwi gwi tsun
+shaga lu ai atsam hkam la lu ma ai. N hkru ai amu
+galaw nga ai ni hpe galai kau mayu ai myit ni prut
+pru wa ai rai nna, shawa masha a ngwi pyaw simsa
+lam hpe lit la gunhpai ai lam hpe madung tawn ai
+hkrang masa hpe gawgap lu ma ai.
+Matsaw ningtsang ni jaw dat ai chyanun tsahku hte
+shat nneng gaw hpung shingkang rawng ai ga shaka
+lu sha rai nga sai. Ndai lu sha hta ntsa na atsam
+rawng nga ai. Ndai atsam chyu sha masha nhkawn
+lu ai hpe hkawn hkrang shangun ai, masha kaga ni
+ndang di lu ai bungli hpe lu galaw ai atsam jaw ya ai
+re. Raiyang ndai lu sha nlawm ai sha, matsaw ningtsang na hpung shingkang hte alak mi bungli galaw
+nmai ani? sawn yu ai shaloi, n mai ai. Hpa majaw
+nga yang, matsaw ningtsang na tsawra shawang
+myit hte n-gun atsam shaja ya nga ai lam hpe sakse
+atawng apa nan madun dan ra nga ai, dai sakse lu
+sha hpe hkam la ai shaloi she laklai ai hpung shingkang namchyim hpe hkam la lu ai majaw rai nga ai.
+
+Karai Kasang a tsawra shawang myit dam lada nna
+n-gun atsam rawng ai lam hpe Madu Yesu hpe hkau
+chyap ai lam hta hkam la lu ai. Madu Yesu hkye
+shalawt la ai lam hpe tut dum nga ai kumla gaw ga
+shaka lu sha hpe hkam la ai lam re. Ndai ga shaka
+lu sha hta atsam rawng ai. Ndai ga shaka lu sha hta
+asak rawng ai. Hpa majaw nga yang, shi gaw matsaw
+ningtsang kaw nna jaw dat ai, hkye shalawt dat ya lu
+ai kumhpa rai nga ai.
+Dai majaw Madu Yesu hpe kamsham nna shi hte
+seng ai ga shaka lu sha hkam la sai sape hpung
+masha shagu hta, mai kaja lam galaw na matu hkrit
+kang ai myit n rawng ai. Tengman rapra ai wuhpung
+wuhpawng hpe galoi mung gawgap lu ai. Madu Yesu
+shi nan hkrit ai myit ni hpe shaw kau ya nna, tsawra
+chye ai myit hpe galai bang da ya sai re (2Tim 1:7).
+Hkrit tsang ai myit ni hkoi mat wa nna, nden marai
+jahpring ya ai sak hkrung lam hpe hkam la shangun
+ai Madu re. Tinang a shawng lam hpe tinang gawgap
+la lu ai myit ningja hpe jaw ya ai Madu re. Tinang
+gam maka hpe tinang gaw gap la lu ai lam gaw awmdawm ahkaw ahkang lu ai lam rai nga ai.
+Yesu hpe rim kau ai shaloi shi a sape ni yawng hkrit
+gari let dumbri dumbra rai hprawng yen hkawm nga
+ma ai. Hkrit hpa lam hpe hprawng yen ai hte ndai
+hkrit hpa lam gaw sim mat ai n re. Jasan jaseng
+padang dip kau lu yang chyu sha, hkrit hpa lam kaw
+nna teng sha lawt lu ai lam rai nga ai. Yesu a sape
+ni gaw, Yesu bai hkrung rawt wa ai namchyim hpe
+
+lu la ai shaloi, hkrit tsang ai lam kaw nna lawt lu
+let Madu sharawng awng ai magam amu hpe nhkrit
+ntsang gun hpai ap nawng ai myit marai ningnan
+hkam la ma ai. Dai majaw Madu Yesu a hkrung rawt
+wa ai lam gaw masha hpe nnan bai shangai ya lu ai
+re. Si hkrung si htan lam hpe hkrit tsang ai masha
+gaw Madu Yesu a hkrung rawt wa ai chyeju hpe lu
+la ai hte rau, si hkrung si htan lam hpe hkrit ai kaw
+nna lawt lu let asak hkrung ai lam hta myit mu myit
+hkut nga sai re. Dai hte maren tinang a sak hkrung
+lam a adip arip sai chyup jahkrit shama rai nga ai
+lam ni hpe hkrit tsang nga ai kaw nna lawt lu nna,
+adip arip re ai magam amu mahkra hpe shamyit
+shatsai kau nna shinggyim sari hpring ai wuhpawng
+hpe bai gaw gap la lu ai atsam gaw dai Madu hta lu
+la ai re.
+Hten run nga ai shinggyim wuhpung wuhpawng hta
+gumrawng gumtsa masa asak hkrung wa ai lam gaw
+masha a asak hkrung wa ai lam re. Dip da hkrum
+ai masha ni a hkum hkrang anu ajin ntsawm nhtap
+rai hkra tsinyam hkrum sha ai hta n-ga, masha hte
+nbung ai hku dip da ai lam hte sai chyup dip up
+ai masha lachyawk mi a galaw mayu ai lam hpe lu
+galaw la hkra jai lang hkrum ai masha shatai hkam
+ra ai lam ni kaw nna shalawt la lu na lam shabyin ya
+nga ai. Mung up ningbaw ningla ni hte mung shawa
+a lapran jet ai mahtai lu hkra jahkrum bawngban let
+woi awn ai laikyang hpe njai lang yang gumrawng
+gumtsa masa gaw si mat sai re.
+sa
+Gumrawng gumtsa masa si mat ai rai yang, shinggyim masha hta ahkyak dik rai nga ai sari sadang,
+dinghpring lam, tsawra shawang myit hte awmdawm
+ahkaw ahkang ni mung si lawm mat sai re. Gumrawng gumtsa masa si mat jang, gumchying gumsa
+ladat hte dip up saichyup ai ladat bai asak hkrung
+wa na rai nga ai. Dip up sai chyup ai ladat asak
+hkrung ai wuhpung wuhpawng hta Karai Kasang a
+hkrang bung shinggyim sari mung hpoi mat sai re.
+Shinggyim sari hpoi mat nna htenza nga ai wuphung
+wuhpawng a mung shawa ni hku nna, up hkang
+nga ai du salang ni hte matut mahkai bawngban
+jahkrum ai lam galaw lu na n mai byin nga ai. Ndai
+masha ni a hpyi nem shagroi gara ai myit gaw, du
+magam ni hta nhkawn hkrang lu tim, matsaw ningtsang ni a tsawra shawang myit hpe wa ahtu hkra
+ya lu nga ai. Yak hkak jamjau nga ai mung shawa
+ni a hpyi nem nsen gaw Yehowa wa a kraw hta ahtu
+hkra ai shaloi, hkye shalawt la ai lam hpe hkam la
+lu nga ai (Pru 3:7-8). Tsinyam hkrum sha nga ai ten
+hta, ndai tsinyam hpe shabyin dat ai du magam ni
+myit malai wa nna, mung shawa a ngamu ngamai
+lam hpe myit ya na re ngu ai lam gaw shut shai ai
+hkam la ai lam sha rai nga ai. Du magam ni a myit
+n galai mat tim, Yehowa a myit kraw kata na tsawra
+shawang myit hpe hkam la lu nga ai. Ndai shawang
+tsawra myit gaw masha hpe hkye shalawt ai lam a
+npawt rai nga ai. Israela ni Hpara-u a myit masin
+hpe n shamu ya lu tim, Yehowa a myit hpe shamu
+
+ya ai shaloi mayam prat na lawt lu ma ai. Yehowa
+a myit shamu wa ai shaloi shi tsun ai gaw, “Nye a
+amyu sha ni hpe dat dat mu” (Let my people Go) ngu
+ai lam re.
+Dip up sai chyup up hkang sha nga ai Hpara-u hte
+mayam amyu Israela ni a lapran jahkrum bawngban let lawt wa lu na lam n nga ai. Sai chyup ai up
+hkang lai ni hpe gaw agrawp mani kau ai ladat hte
+chyu sha lawt lu ai lam hpe lu la mai ai lam re. Dai
+majaw Israela ni Egutu kaw nna pru mat wa ai ten
+hta Egutu amyu masha htinggaw shagu hta mang
+garai ai re (Pru 12:30). Hkrang masa gran nna mung
+shawa hpe n-gun laba ka-up ai lai jasat hpe agrawp
+mani kau lu na matu gaw, mung shawa ni yawng
+myit mang shabawn kahkyin gumdin ai lam hku nna
+chyu sha mai byin ai. Masha shada jahten sharun
+na matu gaw gap da ai arawng aya hpe shamyit kau
+lu ai lam gaw shawa n-gun hte rawt malan ai lam
+langai hku sha mai byin nga ai. Nhkru n kaja ai lam
+hpe n ra sharawng ai rawt malan lam ni a majaw
+mungkan a labau galai wa ai lam re.
+Nhkru ai du magam ni up hkang nga jang mung
+shawa ni a matu mai kaja ai chyeju lam gaw gap
+ya na malai, dagam dala lam hpe shabyin ya ai wa
+tai wa nga ai. Hpa majaw nga yang shanhte gaw
+shanhte hpe shatsam da ai ahkaw ahkang hpe masu
+magaw ai lam ni hte shangang shakang da ma ai.
+N kaja ai maw lanyet hte masing masa ni gran nna
+mung shawa hpe lam woi shadam ai hte dai lam
+
+shadam ai masa hpe nlu ninghkap na matu hpyen
+n-gun hte sharim shama rai nga ma ai. Dai majaw n
+hkru ai up hkang lai masa gaw mai kaja lam, tengman lam hte masha a sumnung shingdi lam hpe
+jahten kau ya ai re. Masha a myit jasat hpe jahten
+shaza nga ai shara hta ngwi pyaw simsa, galu kaba
+bawngring lam hpe tam na n mai byin ai re. Htenza
+nga ai shinggyim wuhpawng hta bawngring lam hpe
+n mai galaw ai. C. S Song a ningmu hta wuhpung
+wuhpawng langai hpe hten run hkra woi awn ai nga
+ai rai yang, dai ni a up hkang lai hpe shawng galai
+shai lu hkra galaw ra ai. Up hkang masa galai shai
+wa yang chyu sha, mai kaja ai shinggyim wuhpawng
+hpe gaw gap mai ai. Hpa majaw nga yang, n kaja ai
+up hkang masa hpe gram kau ai lam gaw, tsawm
+htap ai shawng lam de lahkam htawt sit ai lam rai
+nga ai majaw re. Mung shawa yawng a akyu hpe
+sawn mu ya lu na lam rai nga ai. Masha lachyawk
+mi a akyu hpe jawm pawm makawp maga nga ai kaw
+nna, mung shawa yawng a simsa ngwi pyaw lam hpe
+gawgap ya lu na lam rai nga ai.
+Galai shai hkra gram kau lu na matu gaw nhkru
+nkaja ai lailen hte woi awn nga ai ni hpe agrawp
+jahkrat kau ra ai. Agrawp jahkrat kau lu na matu
+gaw n-gun atsam ra nga ai. N-gun atsam gaw
+kanang na pru wa na ata? nga yang, mung shawa
+kata kaw nna pru wa na re. Tinang a lawt pru wa lu
+na lam gaw tinang a wuhpung wuhpawng kaw nna
+chyu sha mai byin ai. Kaga shara mi kaw nna (sh)
+kaga masha langai ngai e tinang hpe lawt lam sa jaw
+
+na ngu ai gaw mungkan a htung n rai nga ai. Tinang
+lawt lam tinang lu la na matu, kraw kata hta n-gun
+rawng wa shangun lu ai lam ni hpe mayuq, ma-ut
+bang da ra ai re.
+Wunpawng myu sha ni gumchying gumsa rawt
+malan ai shaloi, padang ninglaw lu na matu n-gun
+atsam rawng ai matsaw ningtsa na kumhpa hpe
+mayu ma-ut da ai majaw, nden marai hpring wa lu
+ma ai. Chyanun tsahku hte shat nneng sha ngut ai
+hpang, Dumsa Lalawn hte hpung ni gaw du magam
+ni hpe hkrit kang ai myit ni hkoi mat wa ma ai. Du
+magam ni hpe hkrit kang ai myit hkoi mat wa nna,
+shanhte a myit hta wuhpung wuhpawng ting a tengman rapra lam hpe gaw sharawt la na myit masin
+ningja hpe gale bang la lu masai re. Shanhte a tengman rapra lam hpe tsawra nna dai lam hpe galaw
+gwi ai myit masin gaw wuhpung wuhpawng ting hpe
+hkye shalawt ai magam bungli hpe galaw na lam hpe
+shabyin dat ya sai re.
+Matsaw ningtsa ni a matsun maroi ga hpe hkan
+nang hkan sa ai kumla rai nga ai chyanun tsa hte
+shat nneng hpe sha dat ai shaloi, hkrung ai, Nap
+ngu ai nhtu chyahkrung, makawp maga ninggang
+hte shimlum lam hpagup hpe mung hkam la lu ma
+ai. Ndai hpyen hking lang nna gumchying gumsa lai
+jasat ni hpe gasat mat wa ai shaloi, shara shagu hta
+padang ninglaw lu ma ai re. Wunpawng myu sha ni
+gaw moi kaw nna ya daini mung matsaw ningtsa na
+matsun maroi mungga tsabyi hte muk hpe hkam la
+
+nga ga ai re. Madu Yesu a hkye hkrang la ai chyeju
+mungga hta asak hkrung, hkawm sa nga ga ai re.
+Madu Yesu a mungga ntawng nhtu hpe kraw hta
+tawk ka bang da hkrum sai ni rai nga ai. Mungga
+ntawng nhtu a shingkang gaw tinang marai langai
+a kraw kata kabu gara lu ai sha nrai, mung chying
+shawa yawng a akyu ara hpe gaw gap ya lu ai lam
+hta dawjau mayu ai myit ningja hpe mung jaw ya ai
+rai nga ai. Dai majaw n tara ai hpe hkraw shapraw
+kau nna, tengman rapra lam hpe galai shachyaw ya
+ai ni tai wa ai re. Nshawp nkap masu magaw ai lam
+hpe kashin jasan kau nna, dinghpring tengman lam
+hpe gawgap shangang da ra ai re. Mungga ntawng
+nhtu gaw lahkawng maga dai ai hte maren, Hkristan
+hkum ngau shagu a kraw kata mai kaja ai tengman
+dinghpring lam hpe tsawra let hkan sa chye ai hta
+sha n-ga, dai tengman dinghpring lam hpe sakse
+madun let wuhpung wuhpawng mahkra mai kaja
+lam hta galai shai wa lu hkra shakut shaja ai atsam
+jaw ya ai re.
+Dumsa Lalawn hte shawa masha ni gaw matsaw
+ningtsa ni a matsun maroi malu masha sha ngut
+ai hte hkrit tsang lam ni hkoi mat wa ai sha n-ga,
+shanhte a gumlau majan aten ni mahkra hta matsaw ningtsa na ni a chyalai n-gun rawng ai hpagup
+hte ninggang ni a makawp maga ai majaw, gumrawng gumtsa mung up masa gawgap ai lam hpe
+awng dang lu ai re. Nmu mada lu ai wenyi hpung
+shingkang gaw Karai Kasang ra sharawng ai magam
+
+amu galaw ai ni a ntsa e a up hkang nga ai rai nna,
+dai chyalai n-gun atsam hte wuhpung wuhpawng ni
+law law hpe galai shai ai lam de gawgap ya lu nga ai.
+Tengman rapra lam hpe jahkawn jahkrang nna, dai
+hpe hkrang shapraw shangun nga ai Yehowa Karai
+Kasang gaw shi a myit ra lam hpe gwi gwi yin la ai ni
+hpe tut nawng awng padang jaw ya nga ai re. Karai
+Kasang a hpan da ai lam hpe shayuk jahten ai masha lachyawk mi a maw mawn ai lam ni hpe agrawp
+jasan kau lu ya nga ai gaw, dai Madu a chyeju atsam
+nan rai nga ai.
+Karai Kasang a wenyi atsam hte shi a myit ra lam
+hta magam bungli galaw mat wa ai shaloi, n-gun
+kya ai masha wa n-gun ja wa lu nga ai. Du magam
+ni gaw mung masha ni hpe hpawnun ni, mayam
+ni ngu jahpoi asawng galaw chye nga ma ai. Pilat
+hkawhkam gaw Madu Yesu hpe bawng masha langai
+hku rim la nna, nang Yuda ni a hkawhkam rai nni?
+ngu nna san yang, Madu Yesu gaw nang tsun ai hte
+maren rai nga ai lam, tsun dan wu ai. Bawng masha
+Madu Yesu gaw hkawhkam wa hte maren sha rai
+nga ai lam tsun dan sai re. Karai Kasang jaw da ai
+ahkaw ahkang hte shinggyim maka lam hta masha
+yawng gaw maren sha rai nga ai. Gumchying gumsa
+du ni gaw mung shawa ni hpe grit nem ai masha
+hku mu mada ma ai, raitim matsun mungga lu la sai
+mung shawa ni a kraw hta Karai Kasang a tengman
+dinghpring lam hpe hkam la lu ai shaloi, tinang hpe
+roi rip dip up nga ai ni hpe shingdaw lu ma ai. Karai
+Kasang a hkrang bung kumla hpe hkam la lu ai ni
+
+tai wa nga ai. Wanglu wanglang myit sawn shamu
+shamawt lu ai lam hta shinggyim sari bai gawgap la
+lu ai re.
+Shinggyim ahkaw ahkang gaw dip up sha ai ni a lata
+kaw nna mung shawa a lata de galai du mat wa ai
+shaloi, shinggyim wuhpung wuhpawng simsa ngwi
+pyaw ai lam hpe lu la nga ai. Tengman rapra lam hta
+hkridun ai up hkang ladat a npu hta gawgap a wuhpung wuhpawng gaw, rawt jat galu kaba lam hpe
+shabyin ya nga ai re. Karai Kasang a tengman rapra
+lam hta hkridun ai gumrawng gumtsa jasat gaw, ap
+nawng dawjau chye ai myit jasat hpe shapraw ya nga
+ai. Ndai ap nawng dawjau ai hte tinang a shawng
+lam gam maka hpe lit la gaw gap mayu ai myit jasat
+gaw, masha a shawng lam hta byin mayu ai lam
+mahkra byin tai wa lu hkra galaw lu ai n-gun hpe
+shapraw ya nga ai re.</string>
+    <string name="O_name">GA HPUNGDIM</string>
+    <string name="P_name">‘N-gun machyu manang n lu, Ladi machyu shan
+hkying sha n lu’ ngu ai ga malai hte maren, ndai
+mungkan hta n-gun laba hte manang roi n mai,
+shada da manu shadan tsawra ai lam chyu sha
+bawngring ai wuhpung wuhpawng hpe shalat ya
+nga ai. Tinggyeng myit ka-up nga ai masha gaw,
+dam lada ai magam bunngli a asi namchyim hpe nlu
+hkam sha nga ai. Shawang myit kaba hte shinggyim
+masha,shingra tara mahkra a matu mai kaja htap
+htuk ai magam bungli chyu sha hkrung grin ai lam
+hpe gaw gap ya lu nga ai re. Gyip gyeng ai lai masa
+a shara hta dam lada kung hpan ai jasat jasa ka-up
+wa lu na matu galai shai ai lam ra nga ai.
+Rawt malan mayu ai myit jasat rawng ai masha gaw
+masha kaja tai mayu ai wa re, hpa majaw nga yang,
+grau mai kaja ai lam hpe hkam la lu na matu shakut shaja ai lam mahkra gaw rawt malan magam
+bungli rai nga ai. Wunpawng myu sha ni gaw nhkru
+
+nshawp ai up hkang lam, roi rip dip sha ai lam,
+nkaja ai arawn alai hte seng ai lam, ni hpe ninghkap
+shagrawt ai lam hpe galoi mung galaw chye ai amyu
+re. Ndai zawn shiggyim wuhpung wuhpawng hpe
+jahten shaza chye ai lai kyang ni hpe ninghkap lu ai
+atsam, machye machyang hpe lu la nna galai shai
+ai lam de woi ningshawng lu ai lam gaw, Wunpawng
+myu sha ni a laklai ai maka langai rai nga ai. Laba
+ka-up roi rip ai du magam lai, chyahkrai nmai kaji
+nun ai ni hpe gamyet nna amyat la mayu ai laikyang
+ni hpe lamu tsang na ni hte dagam nna nan, tengman rapra ai lam hpe shayuq chye ai amyu re. Ndai
+zawn tengman rapra lam hpe kraw hta tutnawng
+hpang gara ai amyu gaw, Karai Kasang a wenyi
+shung ai amyu re majaw rai nga ai.
+Karai Kasang a wenyi ningja dandawng ai shara
+shagu hta dai tengman rapra ai lam hpe gaw gap ai
+rawt malan lam galoi mung nga nga ai. Nkaja ai lam
+ni hpe rawt malan chye ai amyu gaw amyu kaba tai
+wa lu nga ai. Dai majaw anhte a rawt malan bungli
+gaw tinang kraw kata kaw nna hpang nga ai. Rawt
+malan ai lam hte rau ginrun galaw ra ai magam bungli gaw shanglawt lam hpe tinang marai hkum shagu
+hkam la lu ra hkra galaw ai lam re. Rawt malan ai
+lam gaw kaga masha ni galaw ai magam bungli hpe
+dinglik yu nna, grau kaja tangdu ai ladat nnan galai
+hkrang shapraw lu hkra n-gun dat ai lam rai nga ai.
+Kaga masha ni galaw jasat sa ai masa lam ni hpe
+galai kau nna, tinang hkawn hkrang ai shawa ma-
+
+sha ningtung ningba a akyu ara rawt jat bawngring
+wa lu hkra masing masa gran jahkrat da ai lam ni
+hpe tatut hkrang shapraw sa wa ai magam bungli
+yi ngam shagu gaw shanglawt lam hta hkawm sa
+ai htawt lahkam ni rai nga ai. Dai majaw rawt malan ai lam hte shanglawt shangun ai magam bungli
+gaw kapyawn galaw ra ai. Rawt malan bungli galaw
+nga ninglen, shanglawt lu shangun ai bungli ni hpe
+hprai kau ai raiyang, rawt malan bungli ndai gaw
+namchyim nrawng ai. Shanglawt lu mai ai lam gaw
+amyu langai, marai langai a suhprang rawtjat lam
+hpe masing masa gran nna, ningja sharawt shalat
+shapan let ringchying wa lu hkra atsam marai dat
+shakut shaja nna awng padang hkam la ai lam re.
+Awng padang lam ajet gaw tinang adawt ai wa kadawng mat ai lam nre ai sha, tinang sharawng awng
+ai lam hpe tinang atsam ningja hte ndut ndang
+galaw gunhpai awng dang lu ai lam rai nga ai. Dai
+majaw awng padang lam gaw tinang a wuhpung
+wuhpawng kata (sh) tinang a myit masin kraw kata
+kaw nna lu la ai lam re.
+Wunpawng myu sha ni a gumchying gumsa htunglai
+hpe adawt shagrawt kau ai gaw tinang wuhpung
+wuhpawng kata na mung shawa ni a n-gun atsam
+hte rai nga ai. Dai majaw gumrawng gumtsa up
+hkang lam gaw de mat wa ai lam hta jet ai awng padang lam lawm nga ai. Ndai awng padang lam chyu
+sha tinang gam maka tinang hparan lu ai ahkaw
+ahkang nga ai re.</string>
+    <string name="Q_name">Shamyet Shanat ai Laika Ni</string>
+    <string name="R_name">Awng, Hkasha Uma. Jinghpaw Wunpawng ni a
+Ningpawt Labau: Ginru Ginra Hkrun Lam hte
+Amyu Lakung Ni Karan Wa ai Lam. Yangon:
+Moon Offset, 2016.
+Boff, Clodovis. Introducing Liberation Theology. NY:
+Orbis Books, 1986.
+Boff, Leonardo. When Theology Listens to the Poor.
+Translated by Robert R. Barr. San Francisco:
+Harper and Row, 1988.
+Gutierrez, Gustavo: A Theology of Liberation. New
+York: N.P, 1971.
+Moltmann, Jurgen. The Theology of Hope: On the
+Ground and the Implications of a Christian
+Eschatology. Translated by James W. Leitch.
+New York: Harper and Row, Publishers,1967.
+
+Song, C. S. The Compassionate God. New York: Orbis Books, 1982.
+______. The Tears of Lady Meng: A Parable of people’s
+political Theology. USA: Academic Renewal
+Press, 2003.
+______. Theology from the Womb of Asia. New York:
+Orbis Books, 1986.
+______. Third Eye Theology: Theology in Formation in
+Asian Setting. New York: Orbis Books, 1979.</string>
+    <string name="RD_name">     Ninggun Machyu
+    Tengman Rapra Lam Nmu</string>
+    <string name="RD1_name">Maumwi hta, n-gun ja ai Baren gaw n-gun kya
+nna mara nlu ai ma chyangai hpe dang sha mayu ai
+jasat hte garawt mat wa nna, kadai n mu ai shara
+hta sat shamyit kau ai re. Tinang n-gun atsam hpe
+sha machyu let nhkru nshawp ai ladat hte mara n lu
+ai ni hpe roi rip ai lam rai nga ai. Baren ningka naw
+gaw ma chyangai hpe garawt sha mat wa ai raitim,
+shi a myit hta ma chyangai hpe tsawra dik ai shi a
+chinghkai kanu a yawn hkyen ai lam hpe nchye na,
+hpa zawn nnawn wu ai. Shi a myit marin ai lam hpe
+lu shadik shatup lu jang myit pyaw let kaga ni a myit
+hki lit li lam hpe nchye hkam sha lawm nga ai re.
+Dai hte maren shinggyim wuhpung wuhpawng
+hta ningun ja ai ni n-gun kya ai ni hpe dip sha mayu
+ai, tinang a lawhpa myit marin ai lam a majaw kaga
+masha ni hpe dip let tinang akyu tam ai, mara n
+lu ai masha ni hpe zingri zingrat galaw let tinang
+
+arawng aya shangang ai, tinggyeng akyu a matu
+mung shawa ni a shingma e mangting mayu ai,
+tinang shut shai ai mara ni hpe makoi magap galaw
+lu na matu kaga masha ni hpe dingsa mayu ai, ndai
+zawn re ai myit jasat rawng ai ni gaw n-gun machyu
+nna dip sha ai amu hpe galaw nga ma ai. Ndai zawn
+tinang akyu hpe chyu tam nna sut gan hte ahkaw
+ahkang (Power) hpe marin marit let kaga masha ni
+hpe laba ka-up dip kamyet sha mayu ai ni a myit
+masin gaw, ja la ai nlung zawn rai nna shanhte hta
+kaga masha wa hpe chye na ya ai, tsawra matsan
+dum chye ai lam kachyi mi mung n nga mat sai re.
+Ningre ai masha ni gaw mung shawa dawtsa hpe
+tsingdu tsingman zawn sha mu ai lam, Asha Dan
+Karai Masa ninghkring C.S Song tsun da nga ai.
+Laba ka-up dip sha mayu ai wa gaw, mung shawa ni
+hpe tsingdu ni hpe zawn, kam ai shaloi mawt shara
+kau na, shawt shakrin kau na, wan nat kamawng
+jasan kau na, hta magawn kabai kau na, ngu ai
+hku sha yu chye ai rai nna, kaga masha ni a asak
+hkrung lam hpe kachyi mi pyi myit yu ai lam nnga ai
+re. Dai majaw laba ka-up dip sha nga ai masha wa
+(Ahna Shin) gaw tsawra chye ai myit masin n rawng
+mat sai masha chyasi hte bung ai wa rai nna, shingre ai masha kaw nna mungdan asak, mung shawa
+a ngamu ngamai lam gaw sharawt let asak hpe
+jahkrung lu na lam tsep kawp n nga ai.
+N-gun ja ai ni gaw shanhte a magam tingnyang grin
+nga lu na matu, n-gun kya ai ni tawt lai nna aloi
+ali sha rim zingri lu na matu mahkam hkam ai tara
+
+ni galaw da chye ma ai. Ga shadawn, tengman ai
+hpe tsun shaleng lu ai Media hte seng ai tara, nteng
+nman ai hku galaw jasat nga ai mungdan ting hte
+seng ai magam bungli ni hpe mung shawa nchye ai
+sha masing gran galaw mat wa ai hpe tsun shabra
+jahkawn jahkrang ai Media ni hpe rim ahkyak la lu
+ai tara ni hpe galaw da ai. Tinang wuhpawng hte
+masa n bung ai wuhpung wuhpawng ni hpe n tara ai
+wuhpung wuhpawng re ngu masat nna shanhte hte
+matut mahkai ai ni hpe rim zingri lu na tara, zawn
+re ai ni hpe gran da chye ma ai. Ndai zawn wuhpung
+wuhpawng hpe mai kaja wa hkra gram lajang lu na
+machye machyang lam mahkra hpe dan di kau nna,
+matsun hpe sha hkan nang chye ai wuhpung wuhpawng hkrang hpe galaw da chye ma ai re.
+Kaga masha ni lu da ai manu dan ai arung
+arai ni hpe majoi maja la kau ya ai akyang nga ai.
+Myihtoi Nahtan gaw hkawhkam Dawi kaw sa nna,
+matsan masha langai mi nlu nlawm re ai kaw nna
+mari bau da ai sagu yi kasha langai sha lu ai hpe,
+dai mare na sahti wa gaw shi a sagu bainam ni hpe
+lahpawt ai majaw, shi kaw du sa ai manam ni hpe
+hkalum na matu, dai matsan ai wa a sagu yi hpe la
+nna sat let manam hkalum ai lam hpe tsun dan ai
+shaloi, Dawi grai pawt let n kaja ai amu galaw ai wa
+hpe ari jaw na lam tsun wu ai. Dai shaloi myihtoi
+Nahtan gaw, dai sahti wa gaw nang hkawhkam wa
+nan rai nga ai lam hpe tsun dan ai shaloi, Dawi gaw
+shi a mara hpe bai dum wu ai (2Sam 12:7-8). Shut
+
+shai ai lam galaw nna mara nlu ai ni hpe dip up sai
+chyup ai shaloi Karai Kasang kaw na ari hkrum ra
+nga ai.
+Ndai zawn nteng nman ai shut shai ai lam hpe shading sharai ya lu ai tengman dinghpring ai wa gaw
+matsaw ningtsang na Karai Kasang sha rai nga ai. Ngun n bung ai shada da a lapran hta prinen ai ladat
+hte manghkang yan na lam grai yak ai. Tengman ai
+wa Karai Kasang ading tawk tara dara ai lam hku
+nna sha, mai kaja ai lam de du lu nga ai. Dai majaw
+Karai Kasang hpe chye chyap ai Karai a masha ni
+gaw matsaw ningtsang de hkawn hkrang ai nsen lu
+shapraw ai sha n-ga, matsaw ningtsang na tengman
+dinghpring lam hpe chye na hkawn hkrang hkan sa
+let, ndai tengman dinghpring lam hpe mungkan ga
+e shagrin jat lu ai atsam nga nga ai re. Dai majaw
+matsaw ningtsang de Tingngai ma Ja Ing zawn kraw
+dung salum kata na masin nsi maroi nni ai lam hpe
+tsun gajai let tengman ai lam mahtai shapraw ya lu
+hkra, lamu madu ga madu hpe ginlat ra nga ai re. </string>
+    <string name="S_name">     Mungga Nga ai Kaw
+    Tengman lam Tam ai ni nga ai</string>
+    <string name="T_name">Matsaw ningtsang na ni a hpung shingkang rawng
+ai hpyen rai ni (nap, hpagup, ninggang) hpe jai
+lang na matu mungkan ga de jaw dat ai hte maren,
+ndai hpyen rai ni hte padang ninglaw lu la nna,
+gumrawng gumtsa mungdan hpe gaw de lu ma ai.
+Mungdan gaw de la ai hpang, ndai hpyen rai ni gaw,
+lamu de bai shalun dat ai lam nnga ai sha, mungkan
+ga kaw naw lup makoi taw nga ai lam maumwi hta
+mu lu ai. Ndai hpyen rai ni waw kawq pru wa ai shara shagu hta gumlau majan nga ai lam tsun da nga
+ai. Matsaw ningtsang de nna shagun dat ai hpung
+shingkang mungga ni gaw, kaman bai ninghtang wa
+mat ai lam n nga ai hpe mungga hta tsun da nga ai
+(Isaia 55:10-11). Karai a mungga nga ai shara shagu
+hta tengman dinghpring lam nga nga ai, dai tengman
+dinghpring lam hpe gawgap na Karai a masha ni
+mung nga ai. Dip ka-up ai ladat hpe jai lang ai shara
+
+shagu hta dai lam hpe gumlang shagrawt na wenyi
+ningja hpring ai ni paw pru na sha rai nga ai.
+Dip up sai chyup ai lai ladat hpe adawt gumlang ai
+shaloi Madu Yesu gaw tengman ai lam hte galaw ai.
+Tengman ai mabyin rai nga ai mung shawa ni hta
+hkam sha lam, tsin-yam lam, nru nra ai lam, roi rip
+ai lam, masu magaw ai lam, zingri zingrat ai lam ni
+hpe madi madun hpyan dan ai. Manghkang ningpawt, mabyin masa langai a tengman ai lam hpe
+masha ni law law chye na hkawn hkrang, brawng
+mat wa ai shaloi, n kaja ai lam hpe jawm sharai lu
+na lam byin wa lu ai. Dai majaw Madu Yesu gaw
+tengman ai lam hte mungkan hpe shading sharai
+la sai. Nrap nra galaw maw mawn ai Yuda masha
+ni hpe, tengman ai lam hpe madun dan ai. Shawa
+num langai mi hpe shawa hpawng de woi sa wa nna
+je yang ma yang, Yesu gaw shanhte hta na mara n
+lu ai wa shawng nlung hte kabai shangun wu ai.
+Karai Kasang a man e mara nlu hkra dinghpring ai
+wa nnga ai lam hpe tsun dan ai lam re. N-gun kya ai
+ni hpe maja dang sha, roi sha ai arawn alai ni hpe
+shading sharai ya lu na matu, tinang a sak hkrung
+lam mabyin majing hpe mu chye hkra sang lang dan
+ai lam re. Masha gaw nhkum ntsup ai ngu ai tengman lam hpe shawa ni hpe madun dan let, shawa
+num a asak hpe hkye la ai Madu re. Dai majaw tengman ai lam gaw masha a asak hpe hkye lu ai sha
+n-ga, amyu langai a ngang grin galu kaba lam mung
+ndai tengman ai lam hta ningpawt gaw gap ra nga ai.
+
+Madu Yesu a mung masa sat lawat gaw tengman
+lam rai nga ai. Tengman lam hpe mu chye wa hkra
+sharin ya ai, tengman lam hte shadum jahprang ai.
+Tengman lam hpe gwi gwi tsun ai, gwi gwi galaw ai.
+Madu Yesu a tengman lam hpe gwi gwi madi madun lu ai atsam gaw, shi a tsawra ai shawang myit
+a majaw rai nga ai. Tsawra ai shawang myit kaba ai
+majaw, Madu Yesu a myit masin kata mung shawa
+a akyu ara hta lai kaga hpa mung shi n-yu nga ai.
+Shawa masha ni a akyu ara a matu asak hkrung ai
+wa re. Madu Yesu a lai jasat gaw n-gun kya ai ni hpe
+shaja ya nna, matsan mayan hkrum ai ni hpe lawt lu
+shangun ai lam re. Dai majaw Madu Yesu hpe kam
+sham ai wuhpung wuhpawng shagu hta dai tengman
+ai mungga hte maren tinang wuhpung wuhpawng
+hpe gawgap na lam tam ai ni nga nga ai.
+Madu Yesu a magam bungli gaw tsawra ai myit hte
+tengman lam hta dahpran nga ai rai nna, dai hte
+nhtan shai ai lam gaw, maw hkalem let adip arip up
+hkang ai lam rai nga ai. Wunpawng myu sha ni gaw
+tengman lam hpe ja ja tsun ra ai Hkristu a masha
+ni re. Ruyak jamjau hkrum ai ni hte rau shanhte a
+ru yak ai lam hpe hkam sha let dai lam ni hpe tawt
+lai lu hkra n-gun dating nga ra ai mungga hpe kam
+sham ai ni re.
+Daini na ten hta Wunpawng myu sha ni a kraw
+madai let hkrap ngu hkrap ngoi ai nsen hte kabun
+kahte madai ai nsen ni gaw wu gadu nga ai re. Ndai
+zawn sin chyip nga ai ni a kraw kata hta marawn
+
+jahtau ai ga gaw “Anhte a Awng Padang Yehowa
+Karai Kasang” ngu ai nsen rai nga mali ai. Ndai nsen
+hpe n mai shayawm kau ai. Ndai makam masham
+hpe n mai tat kau ai. Ndai myit mada lam hpe n mai
+shakawp kau ai. Grung nga ai wan nsa zawn kahtet
+taw nga ai kraw kata na myit mada ai lam gaw dai
+Madu hte rau awng padang lam de sit sa wa lu
+nga ai, ngu ai shingran rai nga mali ai. Ndai shingran gaw Madu Yesu hpe kamsham ai lam kaw nna
+prut pru wa ai rai nna, ndai shingran hpe hkrang
+shapraw na kamsham ai masha ni rai nga ga ai.
+Karai Kasang hta myit mada ai hte hkye hkrang
+shalawt la ai hkrum ai masha ni ngu ai gaw ndai
+mungkan kaw nna kaga de htawt mat na matu n rai
+nga ai. Ndai mungkan kaw nna nan Karai Kasang a
+hkye hkrang la ai akyu hpe hkam sha lu na matu re.
+Dai majaw ndai mungkan kaw Karai Kasang a atsam
+hte awmdawm shanglawt lam hpe shangai shaprat
+dat na matu re. Ma kanu ni gaw machyi hkam ai,
+asak hpe n lahpawt shakut shaja ai majaw, kashu
+kasha myi man mu let kabu gumrawng lu nga ai (NN
+4:1). Machyi hkam let shakut sharang ai a marang e
+myit mada ai shanglawt lam hpe shangai shaprat lu
+nna kabu gara ai ahkying aten hpe lu la na re.
+Wunpawng myu sha ni a awmdawm ahkaw ahkang
+gaw Wunpawng myu sha ni a kata kaw nna kapaw
+pru wa yang chyu sha tengman ai lawt lu lam rai nga
+ai. Amyu sha lawt lu lam kapaw pru wa lu na matu
+gaw, amyu sha ni a myit mada ai lam hta ningpawt
+
+rai nga ai. Karai Kasang gaw shinggyim masha ni
+asak hkrung lu na matu myit mada ai hte shi nan
+shinggyim hkum hkrang dagraw let shi a myit mada
+ai lam hpe shadik shatup ai wa re. Wunpawng myu
+sha ni a myit mada ai lawt lu lam hpe mung, hkum
+ngau shagu hkrang shapraw ai rai yang, teng sha
+dik tup wa na re. Myit mada ai lam gaw asak hpe
+jahkrung ya nna, ndai myit mada ai lam gaw anhte a
+ka-ang na pru wa ra nga ai.
+Mungga nga ai shara hta makam masham ngu ai
+byin wa nna, makam masham nga ai shara hta Karai
+Kasang a masha ni hpawng de ai shara, nawku
+hpung, nga ai re. Mungga hta hkridun ai nawku
+hpung gaw chyoi pra san seng ai Karai Kasang a dat
+kasa hku nna ndai yubak mungkan hta ninghtoi
+tai lu na matu rai nga ai. Dai majaw Karai Kasang a
+mungga nga ai shara shagu hta tengman ai lam prut
+pru wa nga ai. Tengman ai lam prut pru wa ai shaloi
+tengman ai lam hpe magap da ai masha ni a hkrat
+sum lam gaw hpang wa sai re.
+Nhkru nshawp ai lam ni agrawp mani mat lu na
+matu gaw Karai Kasang a mungga matsun rai nga
+ai tengman dinghpring rapra lam hpe gawgap ai lam
+hta Karai ra sharawng ai lam hpe madat mara hkan
+sa ra ai. Madat mara ai ngu ai shaloi up hkang aya
+lu ai du magam ni hpe madat mara ai lam n re ai
+sha, shagrit shanem let Karai ra sharawng ai lam
+hpe hkan sa ai lam re. Karai ra sharawng ai tengman
+dinghpring lam gawgap ai lam hta kabu gara chyeju
+
+shakawn let shang lawm ai lam re.
+Karai Kasang ra sharawng awng ai lam dik tup wa
+lu na matu ap nawng dawjau ai lam ahkyak nga ai.
+Hkawn sek Mari a sari sadang hkum hkrang mahkra
+hpe Karai ra sharawng ai lam hta ap nawng dawjau
+ai a marang e mungkan hkye la Madu paw pru wa
+sai re. Nteng nman, nju ndawng ai lam ni hkrai pri
+rai nga ai ndai mungkan hta, Karai Kasang a tengman lam, lawt lu ai lam hte tsawra ai lam ni ka-up
+shara la lu na matu gaw, anhte ni a sharawng awng
+let ap nawng dawjau ai myit masin hta madung
+rai nga ai. Mai kaja ai masa lam nnan hpe shangai
+shaprat dat let ningsin hpe jahkoi kau lu ai ninghtoi
+hpe shalat lu na matu gaw Hkristan hpung masha ni
+a ap nawng ai lam hta sha hkam la lu na re.
+Mari a hkri tung kaw nna shangai wa ai Madu Yesu
+gaw mungkan ting a hkye la Madu tai nga ai a marang e, masha yawng gaw chyu tauba rum ai kahpu
+kanau ni zawn rai nga ai. Raitim shada da masu
+magaw, sat nat hkat ai lam gaw hpunau shada da
+daw hka shangun nga ai. Ka-in gaw kanau Abela
+hpe sat kau ai a marang e, Abela a sai gaw ga ntsa e
+hkrap shabam hkawm nga ai. Kahpu kanau shada
+sai garan let daw hka bra ayai let, hku hkau masa
+lam mahkra htenza mat wa ai lam rai nga ai. Hku
+hkau masa htenza mat wa ai gaw mara rai nna, hkye
+hkrang la ai lam hpe hkrat sum shangun nga ai.
+Karai Kasang hte shinggyim masha a hku hkau lam
+hpe Madu Yesu hta shagrin da let hkye hkrang la ai
+
+lam lu la nga ai. Dai hte maren hpunau shada hku
+hkau tsawra ai lam htenza mat ai gaw hkye hkrang
+la ai lam hpe ginlut kau ai hte bung nga ai. Dai majaw hkye hkrang la ai gaw tsawra magyep kap nna
+hkum dingnum ngang kang ai wuhpung wuhpawng
+hpe gaw de ai lam re. Masha shada da tsawra hku
+hkau kanawn mazum lu ai shara hta Karai Kasang a
+mungdan gaw gap ai lam hpang nga sai re.
+Tengman ai Karai a mungga gaw mungkan ga de
+jaw da sai hte maren, dai gaw kaman hkoi mat ai
+lam nnga ai hpe chyum mungga hta mu lu nga ga
+ai. Ndai tengman ai mungga gaw htum mat ai, tsam
+mat ai, hkyet mat ai, ngu ai nnga ai mungga re. Dai
+majaw tengman rapra lam hpe tam ai ni mung ngut
+mat sai, amu jin sai, sum mat sai, ngu ai nnga ai.
+Shinggyim wuhpung hta mungga nga ai shara shagu
+dai mungga a tengman ai lam hpe sakse shapraw
+na lam gaw tutnawng anga nga ai. Dai mungga hta
+tengman ai lam tam let rapra ngwi pyaw ai hpe gaw
+gap ai Karai Kasang a masha ni a lata hta tengman
+dinghpring ai hpe galaw lu nga ai, ngu ai makam
+atsam marai tutnawng anga nga ai re. Dai majaw
+masha a shawng lam gam maka gaw, du magam ni,
+n-gun ja nna adip arip galaw ai ni a lata hta nga ai
+n re, dai tengman ai mungga hpe lu la ni a lata hta e
+rai nga ai</string>
+    <string name="U_name">GA MACHYAN</string>
+    <string name="V_name">Wunpawng myu sha ni a myit ma-u (the faculty of
+mind) hta machye machyang htauli htaula jaw ya
+let sak hkrung lam a namchyim hpe Karai Kasang
+hta hkam sha lu hkra, maumwi mausa, shagawp
+ai ga malai ni hte hpyan dan nga ai matsaw ningtsang Karai Kasang gaw Wunpawng myu ni a machye
+machyang daju asak madu rai nga ai. Yak hkak kyin
+dut nna myit htum myit chyum ai lam hkrum sha
+nga ai aten hta tengman lam shapraw, mungkan
+pinra e nan sakse shachyaw let lam woi ai hpan wa
+ningsang chye wa ningchyang hpe chye lu na lam
+hpawq, ginsat lu na lam ni wawq da ya nna, daini du
+hkra amyu sha tengman rapra lam hpe gawgap ya ai
+hpan madu rai nga ai.
+Masha a ninggun hte n mai, machye machyang
+lam hte mung n ngut rai ai, nteng nman lam ni hpe
+sharai, shinggyim wuhpung wuhpawng hpe shatsawm jahtap let rapra ngwi pyaw ai lam hpe gawgap
+ya nga ai gaw matsaw ningtsang na Karai nan rai
+
+nga ai. Matsaw ningtsang Karai gaw, mungkan ntsa
+nga pra nga ai shinggyim masha hte hpan da ai ni
+yawng a mai kaja ai lam hpe shi tsawra ai masha ni
+hpe jailang let shangang shakang shagrin da ai lam
+ni hpe mu lu nga ga ai. Karai hte matut, ningtsang
+na ni a matsun ga hpe mung hkan shakut re ai, masha machyoi ni hpe Karai jai lang let ndai mungkan
+hpe shatsawm jahtap nga ai re. Ndai masha machyoi
+ni gaw ningtsang na ni a hpaji hpe mu lu ai ni re
+majaw, ndai mungkan hpe shatsawm, hkrang galai
+lu na atsam mung rawng ai re.</string>
+</resources>
